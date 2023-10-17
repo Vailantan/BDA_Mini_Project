@@ -1,0 +1,746 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32704,1,MissedShots,0.9234500350952148,0.5335399887084961,0.0181719008833169,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5840,Atletico Madrid,Eibar,2,1,2014-08-30 20:00:00,,None
+32708,28,MissedShots,0.8521499824523926,0.3663,0.024507600814104,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5840,Atletico Madrid,Eibar,2,1,2014-08-30 20:00:00,,BallRecovery
+32940,89,MissedShots,1.1074500350952146,0.49283998870849605,0.2174409925937652,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5789,Real Madrid,Atletico Madrid,1,2,2014-09-13 19:00:00,Moyá,Pass
+33339,19,MissedShots,1.0626000175476074,0.22348000564575193,0.0568466000258922,Antoine Griezmann,h,2270,OpenPlay,2014,RightFoot,5799,Atletico Madrid,Celta Vigo,2,2,2014-09-20 19:00:00,Arda Turan,Pass
+33340,22,SavedShot,1.0971000175476076,0.3048800056457519,0.1003940030932426,Antoine Griezmann,h,2270,OpenPlay,2014,Head,5799,Atletico Madrid,Celta Vigo,2,2,2014-09-20 19:00:00,Juanfran,Cross
+33347,62,SavedShot,0.9073500175476074,0.23088000564575192,0.0233449004590511,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5799,Atletico Madrid,Celta Vigo,2,2,2014-09-20 19:00:00,Koke,Pass
+33971,5,MissedShots,1.0533999824523923,0.3692600112915039,0.063620701432228,Antoine Griezmann,a,2270,OpenPlay,2014,Head,5810,Almeria,Atletico Madrid,0,1,2014-09-24 19:00:00,Mario Suárez,Aerial
+33978,31,MissedShots,1.0303999824523924,0.3566800056457519,0.0454960018396377,Antoine Griezmann,a,2270,OpenPlay,2014,Head,5810,Almeria,Atletico Madrid,0,1,2014-09-24 19:00:00,Guilherme Siqueira,Aerial
+33156,69,MissedShots,1.1143500175476075,0.35446001129150384,0.7456480264663696,Antoine Griezmann,h,2270,OpenPlay,2014,OtherBodyPart,5819,Atletico Madrid,Sevilla,4,0,2014-09-27 19:00:00,Raúl García,Cross
+34159,6,SavedShot,0.9659999999999999,0.183519994354248,0.0220171008259058,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5755,Valencia,Atletico Madrid,3,1,2014-10-04 15:00:00,Miranda,None
+34168,37,MissedShots,0.8302999649047851,0.48247997741699217,0.0081747798249125,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5755,Valencia,Atletico Madrid,3,1,2014-10-04 15:00:00,,None
+34176,64,MissedShots,0.841799964904785,0.31079999999999997,0.0566878989338874,Antoine Griezmann,a,2270,DirectFreekick,2014,LeftFoot,5755,Valencia,Atletico Madrid,3,1,2014-10-04 15:00:00,,Standard
+34893,72,BlockedShot,0.9487499999999999,0.43289999999999995,0.0750818029046058,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5769,Atletico Madrid,Espanyol,2,0,2014-10-19 11:00:00,,BallRecovery
+34894,78,SavedShot,1.0223500175476072,0.4847,0.0955505967140197,Antoine Griezmann,h,2270,OpenPlay,2014,RightFoot,5769,Atletico Madrid,Espanyol,2,0,2014-10-19 11:00:00,Koke,Pass
+34896,83,ShotOnPost,1.117799964904785,0.25456001129150385,0.536486029624939,Antoine Griezmann,h,2270,OpenPlay,2014,RightFoot,5769,Atletico Madrid,Espanyol,2,0,2014-10-19 11:00:00,Mario Mandzukic,TakeOn
+35512,20,BlockedShot,0.9763500175476074,0.468419994354248,0.0637585967779159,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5783,Getafe,Atletico Madrid,0,1,2014-10-26 20:00:00,Arda Turan,Pass
+35517,32,SavedShot,0.9407000350952147,0.4773,0.0402255989611148,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5783,Getafe,Atletico Madrid,0,1,2014-10-26 20:00:00,Arda Turan,Pass
+35519,39,SavedShot,0.979799964904785,0.38480000000000003,0.0640659034252166,Antoine Griezmann,a,2270,FromCorner,2014,LeftFoot,5783,Getafe,Atletico Madrid,0,1,2014-10-26 20:00:00,,None
+33531,18,BlockedShot,0.8786000175476073,0.5261399887084961,0.0219914000481367,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Gabi,Pass
+33534,37,MissedShots,1.01775,0.48173998870849605,0.0199170000851154,Antoine Griezmann,h,2270,SetPiece,2014,Head,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Koke,Cross
+33535,38,BlockedShot,0.98325,0.4351199943542481,0.0858587026596069,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Arda Turan,Pass
+33537,42,Goal,1.0212000350952148,0.29451999435424797,0.068200796842575,Antoine Griezmann,h,2270,SetPiece,2014,LeftFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,,None
+33540,54,SavedShot,1.0453500175476074,0.25529999999999997,0.3478299975395202,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Arda Turan,Throughball
+33541,57,Goal,1.0878999824523923,0.29156001129150394,0.0760291963815689,Antoine Griezmann,h,2270,OpenPlay,2014,Head,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Juanfran,Cross
+34931,41,Goal,1.100549964904785,0.3951600112915039,0.6615650057792664,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5736,Atletico Madrid,Malaga,3,1,2014-11-22 15:00:00,Arda Turan,Pass
+34939,78,MissedShots,1.1108999824523924,0.25826001129150383,0.056122500449419,Antoine Griezmann,h,2270,FromCorner,2014,LeftFoot,5736,Atletico Madrid,Malaga,3,1,2014-11-22 15:00:00,,None
+35478,45,Goal,1.049950035095215,0.3877600112915039,0.0921986028552055,Antoine Griezmann,a,2270,OpenPlay,2014,Head,5715,Athletic Club,Atletico Madrid,1,4,2014-12-21 20:00:00,Juanfran,Cross
+35482,72,Goal,0.9728999824523925,0.3966399887084961,0.347925990819931,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5715,Athletic Club,Atletico Madrid,1,4,2014-12-21 20:00:00,Gabi,Pass
+35484,80,Goal,1.127,0.3781399887084961,0.9715229868888856,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5715,Athletic Club,Atletico Madrid,1,4,2014-12-21 20:00:00,Raúl García,Pass
+38501,8,BlockedShot,1.081,0.5002399887084961,0.0605201013386249,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5642,Atletico Madrid,Levante,3,1,2015-01-03 15:00:00,,None
+38504,17,Goal,1.100549964904785,0.4284600112915039,0.0699125975370407,Antoine Griezmann,h,2270,OpenPlay,2014,Head,5642,Atletico Madrid,Levante,3,1,2015-01-03 15:00:00,,None
+38510,46,Goal,1.07525,0.3522399887084961,0.5118430256843567,Antoine Griezmann,h,2270,OpenPlay,2014,Head,5642,Atletico Madrid,Levante,3,1,2015-01-03 15:00:00,,Rebound
+37676,69,SavedShot,0.9717499999999999,0.26121999435424803,0.0613063983619213,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5668,Atletico Madrid,Granada,2,0,2015-01-18 16:00:00,Koke,HeadPass
+37645,11,Goal,1.0097000350952148,0.461019994354248,0.3550960123538971,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,,BallRecovery
+37646,15,MissedShots,0.9728999824523925,0.296,0.0208273995667696,Antoine Griezmann,h,2270,SetPiece,2014,LeftFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Gabi,Cross
+37648,21,Goal,1.0453500175476074,0.3892399887084961,0.4999969899654388,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Mario Mandzukic,Aerial
+37652,49,SavedShot,0.9107999649047851,0.670439988708496,0.0121262995526194,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Guilherme Siqueira,Pass
+37656,56,MissedShots,1.0418999824523922,0.4847,0.1069929972290992,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Mario Suárez,BallRecovery
+37661,87,ShotOnPost,0.9372499999999999,0.36481999435424806,0.1543989926576614,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Tiago,TakeOn
+38342,6,Goal,1.0407499999999998,0.4366,0.1124259978532791,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5684,Eibar,Atletico Madrid,1,3,2015-01-31 17:00:00,Raúl García,Pass
+40783,24,SavedShot,1.012,0.2627,0.0731983035802841,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5609,Atletico Madrid,Real Madrid,4,0,2015-02-07 15:00:00,,None
+40789,58,MissedShots,1.06375,0.383319994354248,0.1321679949760437,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5609,Atletico Madrid,Real Madrid,4,0,2015-02-07 15:00:00,Saúl Ñíguez,HeadPass
+40788,58,SavedShot,1.0097000350952148,0.242719994354248,0.0585390999913215,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5609,Atletico Madrid,Real Madrid,4,0,2015-02-07 15:00:00,,None
+40790,59,MissedShots,1.0683500175476075,0.3515,0.0719745010137558,Antoine Griezmann,h,2270,OpenPlay,2014,Head,5609,Atletico Madrid,Real Madrid,4,0,2015-02-07 15:00:00,Juanfran,Aerial
+40793,66,Goal,1.1338999824523925,0.3492800056457519,0.8723530173301697,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5609,Atletico Madrid,Real Madrid,4,0,2015-02-07 15:00:00,Saúl Ñíguez,HeadPass
+41013,19,MissedShots,0.92575,0.5061600112915039,0.0260439999401569,Antoine Griezmann,a,2270,OpenPlay,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Gabi,Pass
+41028,65,SavedShot,1.012,0.41958000564575193,0.0961795002222061,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Cani,Pass
+41357,1,MissedShots,0.9177000350952148,0.34188000564575194,0.0351254008710384,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5631,Atletico Madrid,Almeria,3,0,2015-02-21 19:00:00,Moyá,BallRecovery
+41360,19,Goal,0.9924500350952148,0.3344800056457519,0.3867659866809845,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5631,Atletico Madrid,Almeria,3,0,2015-02-21 19:00:00,Mario Mandzukic,Throughball
+41361,28,Goal,1.1143500175476075,0.43141999435424805,0.402644008398056,Antoine Griezmann,h,2270,FromCorner,2014,LeftFoot,5631,Atletico Madrid,Almeria,3,0,2015-02-21 19:00:00,Mario Mandzukic,HeadPass
+39873,20,MissedShots,0.9016000175476073,0.3966399887084961,0.1081390008330345,Antoine Griezmann,a,2270,DirectFreekick,2014,LeftFoot,5568,Sevilla,Atletico Madrid,0,0,2015-03-01 18:00:00,,Standard
+39875,29,MissedShots,1.0660499649047852,0.48322002258300784,0.0317425988614559,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5568,Sevilla,Atletico Madrid,0,0,2015-03-01 18:00:00,Arda Turan,Cross
+39882,55,MissedShots,0.9947499999999999,0.5172600112915039,0.042528498917818,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5568,Sevilla,Atletico Madrid,0,0,2015-03-01 18:00:00,Arda Turan,Pass
+40178,21,MissedShots,0.9924500350952148,0.4750799774169922,0.1109120026230812,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5582,Espanyol,Atletico Madrid,0,0,2015-03-14 15:00:00,Fernando Torres,TakeOn
+40185,60,SavedShot,1.0108500175476074,0.3922,0.0283009000122547,Antoine Griezmann,a,2270,OpenPlay,2014,Head,5582,Espanyol,Atletico Madrid,0,0,2015-03-14 15:00:00,Gabi,Aerial
+39523,4,Goal,0.9452999649047851,0.3877600112915039,0.0649147033691406,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5507,Cordoba,Atletico Madrid,0,2,2015-04-04 17:00:00,,BallRecovery
+39527,30,BlockedShot,1.058,0.3988600112915039,0.1239639967679977,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5507,Cordoba,Atletico Madrid,0,2,2015-04-04 17:00:00,Giménez,HeadPass
+38787,9,Goal,1.06375,0.333,0.508525013923645,Antoine Griezmann,h,2270,OpenPlay,2014,RightFoot,5515,Atletico Madrid,Real Sociedad,2,0,2015-04-07 19:00:00,,Rebound
+38788,12,MissedShots,1.1304500350952147,0.3145,0.3132449984550476,Antoine Griezmann,h,2270,FromCorner,2014,Head,5515,Atletico Madrid,Real Sociedad,2,0,2015-04-07 19:00:00,Tiago,HeadPass
+39031,24,Goal,1.1350499649047852,0.3603800056457519,0.9019529819488524,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,,None
+39042,62,BlockedShot,0.84525,0.3633399887084961,0.0623135007917881,Antoine Griezmann,a,2270,DirectFreekick,2014,LeftFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,,Standard
+39045,77,Goal,1.07525,0.4121800056457519,0.4638960063457489,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Raúl Jiménez,HeadPass
+39277,3,MissedShots,1.1074500350952146,0.3781399887084961,0.1406610012054443,Antoine Griezmann,a,2270,FromCorner,2014,LeftFoot,5537,Deportivo La Coruna,Atletico Madrid,1,2,2015-04-18 17:00:00,Koke,Cross
+39278,4,Goal,1.031549964904785,0.3115399887084961,0.073911502957344,Antoine Griezmann,a,2270,SetPiece,2014,LeftFoot,5537,Deportivo La Coruna,Atletico Madrid,1,2,2015-04-18 17:00:00,Giménez,HeadPass
+39280,21,Goal,1.0453500175476074,0.27453998870849605,0.0877934992313385,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5537,Deportivo La Coruna,Atletico Madrid,1,2,2015-04-18 17:00:00,,None
+36005,45,MissedShots,1.0614500350952147,0.44548000564575196,0.080103300511837,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5547,Atletico Madrid,Elche,3,0,2015-04-25 17:00:00,Guilherme Siqueira,Cross
+36010,54,Goal,1.117799964904785,0.3145,0.4184100031852722,Antoine Griezmann,h,2270,OpenPlay,2014,Head,5547,Atletico Madrid,Elche,3,0,2015-04-25 17:00:00,,Rebound
+36015,76,Goal,1.112049964904785,0.32633998870849606,0.6126000285148621,Antoine Griezmann,h,2270,SetPiece,2014,LeftFoot,5547,Atletico Madrid,Elche,3,0,2015-04-25 17:00:00,Saúl Ñíguez,Pass
+36500,14,SavedShot,1.0775499649047853,0.5276200225830078,0.1008770018815994,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5562,Villarreal,Atletico Madrid,0,1,2015-04-29 21:00:00,Tiago,Throughball
+36511,61,MissedShots,1.0407499999999998,0.4366,0.0631766989827156,Antoine Griezmann,a,2270,OpenPlay,2014,Head,5562,Villarreal,Atletico Madrid,0,1,2015-04-29 21:00:00,Jesús Gámez,Cross
+36517,81,SavedShot,0.9958999824523925,0.49136001129150386,0.488983005285263,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5562,Villarreal,Atletico Madrid,0,1,2015-04-29 21:00:00,Saúl Ñíguez,Throughball
+37053,72,SavedShot,1.0832999649047852,0.30858000564575194,0.4720349907875061,Antoine Griezmann,h,2270,OpenPlay,2014,RightFoot,5467,Atletico Madrid,Athletic Club,0,0,2015-05-02 17:00:00,,None
+37392,33,BlockedShot,0.9728999824523925,0.3892399887084961,0.0549127012491226,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Guilherme Siqueira,HeadPass
+37395,51,BlockedShot,0.9682999649047851,0.3966399887084961,0.0679408982396125,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,,Rebound
+36438,48,MissedShots,0.9728999824523925,0.43289999999999995,0.0619461983442306,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5488,Atletico Madrid,Barcelona,0,1,2015-05-17 18:00:00,,None
+36439,50,BlockedShot,1.0487999649047852,0.2826800056457519,0.0357863008975982,Antoine Griezmann,h,2270,OpenPlay,2014,Head,5488,Atletico Madrid,Barcelona,0,1,2015-05-17 18:00:00,Juanfran,Cross
+36941,18,MissedShots,0.98325,0.5061600112915039,0.037856999784708,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5497,Granada,Atletico Madrid,0,0,2015-05-23 17:30:00,Koke,Pass
+36943,44,BlockedShot,0.8832000350952148,0.31746001129150386,0.0251152999699115,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5497,Granada,Atletico Madrid,0,0,2015-05-23 17:30:00,,None
+83998,2,MissedShots,1.025799964904785,0.5446399887084962,0.0421058982610702,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Koke,Chipped
+84000,15,Goal,0.86825,0.3137600112915039,0.0728506967425346,Antoine Griezmann,h,2270,DirectFreekick,2015,LeftFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,,Standard
+84004,44,SavedShot,1.0131499824523924,0.22718000564575191,0.0778319984674453,Antoine Griezmann,h,2270,OpenPlay,2015,RightFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Óliver Torres,TakeOn
+84254,4,SavedShot,0.7946499824523925,0.39811999435424805,0.0147775998339056,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1415,Sevilla,Atletico Madrid,0,3,2015-08-30 22:30:00,Óliver Torres,Pass
+84255,12,BlockedShot,0.8647999649047851,0.33596001129150393,0.0735137984156608,Antoine Griezmann,a,2270,DirectFreekick,2015,LeftFoot,1415,Sevilla,Atletico Madrid,0,3,2015-08-30 22:30:00,,Standard
+84258,23,MissedShots,1.0430499649047853,0.21978000564575192,0.0558038987219333,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1415,Sevilla,Atletico Madrid,0,3,2015-08-30 22:30:00,Juanfran,Pass
+84287,84,BlockedShot,0.98325,0.39071999435424803,0.1239959970116615,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1415,Sevilla,Atletico Madrid,0,3,2015-08-30 22:30:00,Yannick Carrasco,Pass
+84292,91,ShotOnPost,0.9395499649047852,0.20498000564575192,0.0301204994320869,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1415,Sevilla,Atletico Madrid,0,3,2015-08-30 22:30:00,Jackson Martínez,Pass
+85445,44,MissedShots,0.8096000175476074,0.49283998870849605,0.0096311699599027,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1432,Eibar,Atletico Madrid,0,2,2015-09-19 22:30:00,,TakeOn
+84967,3,Goal,1.0890499649047851,0.30858000564575194,0.457163006067276,Antoine Griezmann,h,2270,FromCorner,2015,RightFoot,1440,Atletico Madrid,Getafe,2,0,2015-09-22 22:00:00,Gabi,Rebound
+84968,8,BlockedShot,0.8624999999999999,0.38553998870849604,0.0324726998805999,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1440,Atletico Madrid,Getafe,2,0,2015-09-22 22:00:00,Gabi,Challenge
+84974,51,MissedShots,0.8981499824523925,0.2597399887084961,0.0299274995923042,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1440,Atletico Madrid,Getafe,2,0,2015-09-22 22:00:00,Óliver Torres,Pass
+84983,89,Goal,1.0924999999999998,0.36481999435424806,0.6426969766616821,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1440,Atletico Madrid,Getafe,2,0,2015-09-22 22:00:00,Jackson Martínez,Pass
+85735,45,SavedShot,1.0545499649047851,0.235319994354248,0.0658897012472152,Antoine Griezmann,a,2270,OpenPlay,2015,RightFoot,1453,Villarreal,Atletico Madrid,1,0,2015-09-26 22:30:00,Tiago,BallRecovery
+85232,21,SavedShot,1.01775,0.37,0.7432780265808105,Antoine Griezmann,h,2270,Penalty,2015,LeftFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,,Standard
+85246,82,SavedShot,1.1108999824523924,0.4210600112915039,0.1011760011315345,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Jackson Martínez,Cross
+86150,8,Goal,1.0108500175476074,0.33596001129150393,0.3876680135726928,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1475,Real Sociedad,Atletico Madrid,0,2,2015-10-18 18:00:00,Koke,TakeOn
+86155,34,BlockedShot,0.8602000350952148,0.33891999435424797,0.070594698190689,Antoine Griezmann,a,2270,DirectFreekick,2015,LeftFoot,1475,Real Sociedad,Atletico Madrid,0,2,2015-10-18 18:00:00,,Standard
+86629,28,MissedShots,0.8521499824523926,0.3811,0.0241100005805492,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1487,Atletico Madrid,Valencia,2,1,2015-10-25 23:30:00,Giménez,Pass
+86637,67,MissedShots,1.100549964904785,0.43216001129150394,0.1160999983549118,Antoine Griezmann,h,2270,OpenPlay,2015,RightFoot,1487,Atletico Madrid,Valencia,2,1,2015-10-25 23:30:00,,None
+85966,9,BlockedShot,0.9349500350952147,0.3145,0.0482002012431621,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1489,Deportivo La Coruna,Atletico Madrid,1,1,2015-10-30 23:30:00,,None
+85971,38,SavedShot,1.106299964904785,0.33596001129150393,0.6025509834289551,Antoine Griezmann,a,2270,FromCorner,2015,LeftFoot,1489,Deportivo La Coruna,Atletico Madrid,1,1,2015-10-30 23:30:00,,Rebound
+85974,45,MissedShots,1.1143500175476075,0.27601999435424807,0.0286535993218421,Antoine Griezmann,a,2270,FromCorner,2015,Head,1489,Deportivo La Coruna,Atletico Madrid,1,1,2015-10-30 23:30:00,Koke,Cross
+85982,84,BlockedShot,0.8808999824523924,0.5416799774169921,0.0206985995173454,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1489,Deportivo La Coruna,Atletico Madrid,1,1,2015-10-30 23:30:00,Koke,Pass
+86492,53,BlockedShot,1.112049964904785,0.40921999435424805,0.1404269933700561,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1507,Atletico Madrid,Sporting Gijon,1,0,2015-11-08 21:15:00,Yannick Carrasco,Pass
+86496,64,SavedShot,1.049950035095215,0.3433600112915039,0.132774993777275,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1507,Atletico Madrid,Sporting Gijon,1,0,2015-11-08 21:15:00,,Rebound
+86495,64,SavedShot,1.06375,0.333,0.1020150035619735,Antoine Griezmann,h,2270,OpenPlay,2015,RightFoot,1507,Atletico Madrid,Sporting Gijon,1,0,2015-11-08 21:15:00,Yannick Carrasco,Cross
+86507,92,Goal,1.0695,0.3566800056457519,0.4157679975032806,Antoine Griezmann,h,2270,OpenPlay,2015,Head,1507,Atletico Madrid,Sporting Gijon,1,0,2015-11-08 21:15:00,Diego Godín,HeadPass
+87268,22,MissedShots,1.06375,0.4551,0.390841007232666,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1517,Real Betis,Atletico Madrid,0,1,2015-11-22 23:30:00,Fernando Torres,Throughball
+87276,72,MissedShots,1.049950035095215,0.4898799774169922,0.2739830017089844,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1517,Real Betis,Atletico Madrid,0,1,2015-11-22 23:30:00,Gabi,Pass
+87280,87,ShotOnPost,1.0614500350952147,0.4469600112915039,0.4294500052928924,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1517,Real Betis,Atletico Madrid,0,1,2015-11-22 23:30:00,Luciano Vietto,BallTouch
+88293,2,Goal,1.0384500350952148,0.2701,0.0940103977918624,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1521,Atletico Madrid,Espanyol,1,0,2015-11-28 21:15:00,Óliver Torres,Pass
+88301,48,SavedShot,1.0763999824523924,0.3344800056457519,0.5801759958267212,Antoine Griezmann,h,2270,OpenPlay,2015,RightFoot,1521,Atletico Madrid,Espanyol,1,0,2015-11-28 21:15:00,,None
+88309,73,MissedShots,0.9177000350952148,0.2715800056457519,0.0599914006888866,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1521,Atletico Madrid,Espanyol,1,0,2015-11-28 21:15:00,Koke,LayOff
+87367,75,Goal,1.0924999999999998,0.49283998870849605,0.1242550015449523,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1530,Granada,Atletico Madrid,0,2,2015-12-05 21:15:00,Óliver Torres,Throughball
+88281,34,BlockedShot,0.8947000350952148,0.457319994354248,0.0273477993905544,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1547,Atletico Madrid,Athletic Club,2,1,2015-12-13 21:15:00,Luciano Vietto,TakeOn
+88289,66,Goal,0.8877999649047851,0.3766600112915039,0.0343010015785694,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1547,Atletico Madrid,Athletic Club,2,1,2015-12-13 21:15:00,Ángel Correa,BallTouch
+87878,57,SavedShot,0.818799964904785,0.3470600112915038,0.0179440006613731,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1557,Malaga,Atletico Madrid,1,0,2015-12-20 23:30:00,Koke,Pass
+87498,5,MissedShots,1.0027999649047852,0.5483399887084961,0.0529068000614643,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1560,Rayo Vallecano,Atletico Madrid,0,2,2015-12-30 21:15:00,Diego Godín,BallRecovery
+87504,18,SavedShot,0.9924500350952148,0.40848000564575193,0.1002269983291626,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1560,Rayo Vallecano,Atletico Madrid,0,2,2015-12-30 21:15:00,Fernando Torres,Pass
+87521,89,Goal,1.0062499999999999,0.49283998870849605,0.4831939935684204,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1560,Rayo Vallecano,Atletico Madrid,0,2,2015-12-30 21:15:00,Jackson Martínez,Throughball
+86917,13,MissedShots,0.9441499824523925,0.217559997177124,0.0873884037137031,Antoine Griezmann,h,2270,DirectFreekick,2015,LeftFoot,1569,Atletico Madrid,Levante,1,0,2016-01-02 23:30:00,,Standard
+87855,27,BlockedShot,0.9303500175476074,0.3322600112915039,0.0560882985591888,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1587,Celta Vigo,Atletico Madrid,0,2,2016-01-10 23:30:00,Koke,Pass
+87857,33,MissedShots,0.9602499999999999,0.3159800056457519,0.0837311968207359,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1587,Celta Vigo,Atletico Madrid,0,2,2016-01-10 23:30:00,Koke,LayOff
+87860,48,Goal,1.0683500175476075,0.3004399887084961,0.4288569986820221,Antoine Griezmann,a,2270,OpenPlay,2015,RightFoot,1587,Celta Vigo,Atletico Madrid,0,2,2016-01-10 23:30:00,Luciano Vietto,Pass
+88625,53,SavedShot,1.0281000175476074,0.43289999999999995,0.4072310030460357,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Luciano Vietto,Throughball
+88627,67,Goal,0.9993500175476074,0.4136600112915039,0.3801620006561279,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Koke,Pass
+88635,88,Goal,0.9809500350952147,0.4210600112915039,0.4635069966316223,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Koke,Throughball
+88900,24,MissedShots,1.07525,0.3145,0.1242439970374107,Antoine Griezmann,h,2270,OpenPlay,2015,RightFoot,1604,Atletico Madrid,Sevilla,0,0,2016-01-24 19:00:00,Juanfran,Pass
+88901,28,BlockedShot,0.9349500350952147,0.4558399887084961,0.0349095985293388,Antoine Griezmann,h,2270,SetPiece,2015,RightFoot,1604,Atletico Madrid,Sevilla,0,0,2016-01-24 19:00:00,Diego Godín,Pass
+88903,32,MissedShots,1.127,0.4107,0.6179609894752502,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1604,Atletico Madrid,Sevilla,0,0,2016-01-24 19:00:00,Diego Godín,HeadPass
+88909,52,ShotOnPost,1.0418999824523922,0.3966399887084961,0.0670275017619133,Antoine Griezmann,h,2270,OpenPlay,2015,Head,1604,Atletico Madrid,Sevilla,0,0,2016-01-24 19:00:00,Koke,Chipped
+88915,77,MissedShots,1.0384500350952148,0.47286001129150385,0.0255200006067752,Antoine Griezmann,h,2270,OpenPlay,2015,Head,1604,Atletico Madrid,Sevilla,0,0,2016-01-24 19:00:00,Filipe Luis,Cross
+89146,36,MissedShots,1.0039500350952149,0.49136001129150386,0.0650710016489029,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Yannick Carrasco,Pass
+89149,55,SavedShot,1.094799964904785,0.3692600112915039,0.5042319893836975,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Yannick Carrasco,Cross
+89231,18,MissedShots,1.0372999649047852,0.5172600112915039,0.0517434999346733,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Jesús Gámez,Chipped
+89881,34,BlockedShot,0.9234500350952148,0.468419994354248,0.0353039987385273,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1648,Atletico Madrid,Villarreal,0,0,2016-02-21 23:30:00,Saúl Ñíguez,Pass
+89884,42,MissedShots,1.094799964904785,0.3071,0.3365910053253174,Antoine Griezmann,h,2270,OpenPlay,2015,Head,1648,Atletico Madrid,Villarreal,0,0,2016-02-21 23:30:00,Juanfran,Cross
+90114,39,SavedShot,0.8866499824523925,0.49062002258300785,0.0224836003035306,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Saúl Ñíguez,Pass
+90119,52,Goal,1.014299964904785,0.43141999435424805,0.1082850024104118,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Filipe Luis,Pass
+90127,85,MissedShots,0.9062000350952149,0.16058000564575192,0.0195004995912313,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,,Dispossessed
+91740,28,SavedShot,0.9855499649047851,0.2671399887084961,0.0745216012001037,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1659,Atletico Madrid,Real Sociedad,3,0,2016-03-02 00:00:00,Gabi,Pass
+91741,29,MissedShots,0.9763500175476074,0.4787799774169922,0.0689601004123687,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1659,Atletico Madrid,Real Sociedad,3,0,2016-03-02 00:00:00,Koke,Chipped
+91745,60,Goal,1.01775,0.37,0.743149995803833,Antoine Griezmann,h,2270,Penalty,2015,LeftFoot,1659,Atletico Madrid,Real Sociedad,3,0,2016-03-02 00:00:00,,Standard
+91305,18,SavedShot,0.9119500350952148,0.375180005645752,0.0447239987552166,Antoine Griezmann,a,2270,OpenPlay,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Luciano Vietto,Pass
+91308,23,Goal,0.8889500350952148,0.298219994354248,0.0275440998375415,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Koke,Pass
+91310,28,MissedShots,0.8671000175476073,0.4351199943542481,0.0209235996007919,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Filipe Luis,Pass
+91316,48,BlockedShot,0.9993500175476074,0.5387200225830078,0.0322601981461048,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Gabi,Pass
+90856,6,BlockedShot,0.8602000350952148,0.47063998870849605,0.0197292994707822,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1682,Atletico Madrid,Deportivo La Coruna,3,0,2016-03-12 23:30:00,Luciano Vietto,Pass
+90861,42,BlockedShot,0.8693999824523925,0.4773,0.0256268996745347,Antoine Griezmann,h,2270,OpenPlay,2015,RightFoot,1682,Atletico Madrid,Deportivo La Coruna,3,0,2016-03-12 23:30:00,Koke,Pass
+90862,43,MissedShots,0.9993500175476074,0.2826800056457519,0.0909593030810356,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1682,Atletico Madrid,Deportivo La Coruna,3,0,2016-03-12 23:30:00,,BallRecovery
+90865,59,Goal,1.049950035095215,0.5105999999999999,0.0470359995961189,Antoine Griezmann,h,2270,FromCorner,2015,LeftFoot,1682,Atletico Madrid,Deportivo La Coruna,3,0,2016-03-12 23:30:00,Koke,Pass
+90789,28,Goal,0.8981499824523925,0.29156001129150394,0.0904503017663955,Antoine Griezmann,a,2270,DirectFreekick,2015,LeftFoot,1690,Sporting Gijon,Atletico Madrid,2,1,2016-03-19 19:00:00,,Standard
+90512,17,MissedShots,1.0545499649047851,0.301919994354248,0.032677799463272,Antoine Griezmann,h,2270,OpenPlay,2015,Head,1700,Atletico Madrid,Real Betis,5,1,2016-04-02 18:00:00,Filipe Luis,Aerial
+90513,21,BlockedShot,0.8406499824523925,0.4395600112915039,0.0163423996418714,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1700,Atletico Madrid,Real Betis,5,1,2016-04-02 18:00:00,Fernando Torres,Pass
+90516,41,Goal,0.9579500350952147,0.471380005645752,0.0648979991674423,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1700,Atletico Madrid,Real Betis,5,1,2016-04-02 18:00:00,,None
+90519,45,SavedShot,1.035,0.4136600112915039,0.1859129965305328,Antoine Griezmann,h,2270,OpenPlay,2015,Head,1700,Atletico Madrid,Real Betis,5,1,2016-04-02 18:00:00,Filipe Luis,Cross
+90524,54,SavedShot,0.9728999824523925,0.3448399887084961,0.4596369862556457,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1700,Atletico Madrid,Real Betis,5,1,2016-04-02 18:00:00,Fernando Torres,Throughball
+90525,55,SavedShot,0.9268999824523925,0.3633399887084961,0.0528800003230571,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1700,Atletico Madrid,Real Betis,5,1,2016-04-02 18:00:00,,None
+90530,74,MissedShots,1.0407499999999998,0.3766600112915039,0.1085140034556388,Antoine Griezmann,h,2270,SetPiece,2015,Head,1700,Atletico Madrid,Real Betis,5,1,2016-04-02 18:00:00,Koke,Cross
+90532,80,Goal,1.05225,0.346319994354248,0.556784987449646,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1700,Atletico Madrid,Real Betis,5,1,2016-04-02 18:00:00,Ángel Correa,Pass
+91756,14,BlockedShot,0.8947000350952148,0.17094000282287594,0.0203846003860235,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1711,Espanyol,Atletico Madrid,1,3,2016-04-09 20:15:00,Juanfran,Pass
+91760,24,MissedShots,0.974049964904785,0.206459997177124,0.0510957986116409,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1711,Espanyol,Atletico Madrid,1,3,2016-04-09 20:15:00,,TakeOn
+91766,41,MissedShots,1.0051000175476072,0.3167199943542481,0.0457434989511966,Antoine Griezmann,a,2270,SetPiece,2015,Head,1711,Espanyol,Atletico Madrid,1,3,2016-04-09 20:15:00,Koke,Chipped
+91768,57,Goal,1.0487999649047852,0.4588,0.3914990127086639,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1711,Espanyol,Atletico Madrid,1,3,2016-04-09 20:15:00,Koke,Throughball
+92848,13,MissedShots,1.0545499649047851,0.3589,0.4916920065879822,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1741,Atletico Madrid,Malaga,1,0,2016-04-23 20:15:00,Fernando Torres,BallTouch
+92860,63,MissedShots,1.0602999649047853,0.2812,0.0294473003596067,Antoine Griezmann,h,2270,FromCorner,2015,Head,1741,Atletico Madrid,Malaga,1,0,2016-04-23 20:15:00,Gabi,Cross
+92648,54,Goal,0.9452999649047851,0.463980005645752,0.0507595017552375,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1751,Atletico Madrid,Rayo Vallecano,1,0,2016-04-30 20:15:00,,Interception
+92649,57,BlockedShot,0.8211000175476074,0.3248600112915039,0.0229384005069732,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1751,Atletico Madrid,Rayo Vallecano,1,0,2016-04-30 20:15:00,Fernando Torres,Pass
+92269,73,SavedShot,1.0338500175476073,0.5024600112915039,0.2308789938688278,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1761,Levante,Atletico Madrid,2,1,2016-05-08 19:00:00,Yannick Carrasco,Pass
+92271,76,SavedShot,0.84525,0.4750799774169922,0.0168060008436441,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1761,Levante,Atletico Madrid,2,1,2016-05-08 19:00:00,Filipe Luis,Pass
+92895,53,Goal,1.1028500175476075,0.3677800056457519,0.6774899959564209,Antoine Griezmann,h,2270,OpenPlay,2015,Head,1773,Atletico Madrid,Celta Vigo,2,0,2016-05-14 21:30:00,,Rebound
+135539,37,SavedShot,1.0971000175476076,0.518,0.0479408986866474,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,1794,Leganes,Atletico Madrid,0,0,2016-08-28 00:15:00,Gabi,Chipped
+135544,72,BlockedShot,0.8314500350952148,0.40848000564575193,0.0534589998424053,Antoine Griezmann,a,2270,DirectFreekick,2016,LeftFoot,1794,Leganes,Atletico Madrid,0,0,2016-08-28 00:15:00,,Standard
+135545,74,MissedShots,0.9958999824523925,0.4240199943542481,0.063732698559761,Antoine Griezmann,a,2270,OpenPlay,2016,RightFoot,1794,Leganes,Atletico Madrid,0,0,2016-08-28 00:15:00,Yannick Carrasco,Cross
+135773,18,SavedShot,0.8958500175476073,0.16871999435424798,0.0168200992047786,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,1800,Celta Vigo,Atletico Madrid,0,4,2016-09-10 15:00:00,Juanfran,Pass
+135778,45,BlockedShot,0.8578999824523925,0.46176001129150385,0.0209916997700929,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,1800,Celta Vigo,Atletico Madrid,0,4,2016-09-10 15:00:00,Koke,Pass
+135785,72,Goal,1.0430499649047853,0.35076001129150386,0.0605956986546516,Antoine Griezmann,a,2270,OpenPlay,2016,Head,1800,Celta Vigo,Atletico Madrid,0,4,2016-09-10 15:00:00,Saúl Ñíguez,Aerial
+135786,80,Goal,1.06375,0.3892399887084961,0.4024269878864288,Antoine Griezmann,a,2270,OpenPlay,2016,Head,1800,Celta Vigo,Atletico Madrid,0,4,2016-09-10 15:00:00,Juanfran,Cross
+136007,1,Goal,0.9407000350952147,0.3663,0.2768020033836365,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,1811,Atletico Madrid,Sporting Gijon,5,0,2016-09-17 18:15:00,Kevin Gameiro,Pass
+136017,30,Goal,0.8762999649047851,0.33596001129150393,0.0422234013676643,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,1811,Atletico Madrid,Sporting Gijon,5,0,2016-09-17 18:15:00,Koke,Pass
+136024,52,MissedShots,0.8463999824523926,0.2597399887084961,0.0192319992929697,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,1811,Atletico Madrid,Sporting Gijon,5,0,2016-09-17 18:15:00,Koke,Pass
+136025,66,MissedShots,1.0005,0.48173998870849605,0.0933898016810417,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,1811,Atletico Madrid,Sporting Gijon,5,0,2016-09-17 18:15:00,Ángel Correa,Chipped
+136075,45,SavedShot,0.828,0.39738000564575193,0.0182009991258382,Antoine Griezmann,a,2270,OpenPlay,2016,RightFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Koke,Pass
+136077,48,MissedShots,0.8877999649047851,0.3159800056457519,0.0295023992657661,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Kevin Gameiro,Pass
+136304,20,MissedShots,1.0062499999999999,0.4232800056457519,0.093878798186779,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,1835,Atletico Madrid,Deportivo La Coruna,1,0,2016-09-25 18:15:00,Ángel Correa,Pass
+136323,69,Goal,1.1028500175476075,0.3707399887084961,0.6797009706497192,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,1835,Atletico Madrid,Deportivo La Coruna,1,0,2016-09-25 18:15:00,Kevin Gameiro,Pass
+136566,14,BlockedShot,0.86825,0.33891999435424797,0.037041500210762,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,,TakeOn
+136568,22,MissedShots,1.0303999824523924,0.38480000000000003,0.0422210991382598,Antoine Griezmann,a,2270,OpenPlay,2016,Head,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Koke,Aerial
+136569,25,SavedShot,0.9292000350952148,0.5231799774169922,0.0261831004172563,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Saúl Ñíguez,Pass
+136574,43,SavedShot,1.01775,0.37,0.7432780265808105,Antoine Griezmann,a,2270,Penalty,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,,Standard
+136582,62,Goal,1.0602999649047853,0.31746001129150386,0.4360289871692657,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Kevin Gameiro,Pass
+136905,33,SavedShot,1.112049964904785,0.449919994354248,0.0350680015981197,Antoine Griezmann,h,2270,FromCorner,2016,Head,1852,Atletico Madrid,Granada,7,1,2016-10-15 20:30:00,Diego Godín,Rebound
+136911,66,MissedShots,1.0971000175476076,0.3248600112915039,0.595192015171051,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,1852,Atletico Madrid,Granada,7,1,2016-10-15 20:30:00,,None
+137449,7,BlockedShot,0.9452999649047851,0.287119994354248,0.138941004872322,Antoine Griezmann,a,2270,DirectFreekick,2016,LeftFoot,1865,Sevilla,Atletico Madrid,1,0,2016-10-23 18:15:00,,Standard
+136978,9,MissedShots,1.0660499649047852,0.3470600112915038,0.0959620028734207,Antoine Griezmann,h,2270,OpenPlay,2016,Head,3311,Atletico Madrid,Malaga,4,2,2016-10-29 20:30:00,Nicolás Gaitán,Aerial
+136983,36,SavedShot,1.0545499649047851,0.4884,0.07377839833498,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3311,Atletico Madrid,Malaga,4,2,2016-10-29 20:30:00,Saúl Ñíguez,Chipped
+136988,52,BlockedShot,1.1155,0.3293,0.1521359980106353,Antoine Griezmann,h,2270,OpenPlay,2016,RightFoot,3311,Atletico Madrid,Malaga,4,2,2016-10-29 20:30:00,Ángel Correa,Pass
+137488,87,SavedShot,0.9188500175476073,0.19091999435424797,0.0192475002259016,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,2778,Real Sociedad,Atletico Madrid,2,0,2016-11-05 19:15:00,Thomas Partey,Pass
+137791,50,SavedShot,0.8383500175476074,0.32041999435424806,0.0150418002158403,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,2790,Atletico Madrid,Real Madrid,0,3,2016-11-19 23:45:00,,BallRecovery
+137792,53,BlockedShot,0.9165499649047851,0.37296001129150386,0.0556859001517295,Antoine Griezmann,h,2270,OpenPlay,2016,RightFoot,2790,Atletico Madrid,Real Madrid,0,3,2016-11-19 23:45:00,Saúl Ñíguez,LayOff
+138143,3,BlockedShot,0.9924500350952148,0.43808000564575195,0.0927693024277687,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3166,Atletico Madrid,Espanyol,0,0,2016-12-03 23:45:00,Filipe Luis,Pass
+138155,65,MissedShots,1.127,0.452880005645752,0.0882058963179588,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3166,Atletico Madrid,Espanyol,0,0,2016-12-03 23:45:00,,Rebound
+138158,83,SavedShot,1.0154500350952147,0.40848000564575193,0.1134980022907257,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3166,Atletico Madrid,Espanyol,0,0,2016-12-03 23:45:00,Nicolás Gaitán,Pass
+138525,29,SavedShot,1.0418999824523922,0.25826001129150383,0.2530989944934845,Antoine Griezmann,a,2270,OpenPlay,2016,RightFoot,3182,Villarreal,Atletico Madrid,3,0,2016-12-12 23:45:00,Ángel Correa,Pass
+138531,61,BlockedShot,0.8578999824523925,0.5091200225830078,0.0173707008361816,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,3182,Villarreal,Atletico Madrid,3,0,2016-12-12 23:45:00,Saúl Ñíguez,Pass
+138534,76,BlockedShot,1.0372999649047852,0.47433998870849603,0.0249694008380174,Antoine Griezmann,a,2270,SetPiece,2016,LeftFoot,3182,Villarreal,Atletico Madrid,3,0,2016-12-12 23:45:00,Yannick Carrasco,Cross
+138711,13,BlockedShot,1.0154500350952147,0.468419994354248,0.0669450983405113,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3185,Atletico Madrid,Las Palmas,1,0,2016-12-17 19:15:00,,None
+138713,15,MissedShots,1.0959500350952145,0.5105999999999999,0.0522109009325504,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3185,Atletico Madrid,Las Palmas,1,0,2016-12-17 19:15:00,,Rebound
+138715,28,MissedShots,1.0407499999999998,0.3159800056457519,0.0911464989185333,Antoine Griezmann,h,2270,OpenPlay,2016,RightFoot,3185,Atletico Madrid,Las Palmas,1,0,2016-12-17 19:15:00,Koke,Chipped
+138721,41,SavedShot,1.1074500350952146,0.2530800056457519,0.064242199063301,Antoine Griezmann,h,2270,OpenPlay,2016,RightFoot,3185,Atletico Madrid,Las Palmas,1,0,2016-12-17 19:15:00,Koke,TakeOn
+138729,58,BlockedShot,0.8487000350952147,0.372219994354248,0.0195026993751525,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3185,Atletico Madrid,Las Palmas,1,0,2016-12-17 19:15:00,Kevin Gameiro,BallRecovery
+139660,32,BlockedShot,0.851,0.228659997177124,0.0468387007713317,Antoine Griezmann,a,2270,DirectFreekick,2016,LeftFoot,3886,Eibar,Atletico Madrid,0,2,2017-01-07 19:15:00,,Standard
+139661,36,MissedShots,0.9349500350952147,0.5483399887084961,0.0237195994704961,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,3886,Eibar,Atletico Madrid,0,2,2017-01-07 19:15:00,Koke,Pass
+139670,73,Goal,1.094799964904785,0.342619994354248,0.6377519965171814,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,3886,Eibar,Atletico Madrid,0,2,2017-01-07 19:15:00,Kevin Gameiro,Pass
+140689,10,MissedShots,0.9867000350952148,0.3936800056457519,0.091931402683258,Antoine Griezmann,h,2270,OpenPlay,2016,RightFoot,3896,Atletico Madrid,Real Betis,1,0,2017-01-14 21:30:00,,None
+138706,79,Goal,0.8923999824523925,0.41661999435424807,0.0298903007060289,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,3910,Athletic Club,Atletico Madrid,2,2,2017-01-22 18:15:00,Fernando Torres,Pass
+139160,18,MissedShots,1.112049964904785,0.4395600112915039,0.0691893026232719,Antoine Griezmann,a,2270,SetPiece,2016,LeftFoot,3916,Alaves,Atletico Madrid,0,0,2017-01-28 18:15:00,Koke,Cross
+139161,24,BlockedShot,0.9786499824523925,0.5128200225830077,0.0333542004227638,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,3916,Alaves,Atletico Madrid,0,0,2017-01-28 18:15:00,Koke,Pass
+139163,27,SavedShot,0.8751499824523925,0.2738,0.0171402003616094,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,3916,Alaves,Atletico Madrid,0,0,2017-01-28 18:15:00,,None
+139169,62,MissedShots,1.0568500175476074,0.2923,0.0156814996153116,Antoine Griezmann,a,2270,FromCorner,2016,Head,3916,Alaves,Atletico Madrid,0,0,2017-01-28 18:15:00,Koke,Aerial
+139178,85,MissedShots,0.86825,0.32263998870849603,0.0742793008685112,Antoine Griezmann,a,2270,DirectFreekick,2016,LeftFoot,3916,Alaves,Atletico Madrid,0,0,2017-01-28 18:15:00,,Standard
+140911,8,BlockedShot,0.8992999649047851,0.35371999435424806,0.058034099638462,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,,TakeOn
+140913,14,SavedShot,1.01775,0.37,0.7432780265808105,Antoine Griezmann,h,2270,Penalty,2016,LeftFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,,Standard
+138764,87,Goal,1.0971000175476076,0.3707399887084961,0.5893089771270752,Antoine Griezmann,h,2270,OpenPlay,2016,RightFoot,3943,Atletico Madrid,Celta Vigo,3,2,2017-02-12 19:45:00,Kevin Gameiro,HeadPass
+139678,11,MissedShots,0.9337999649047851,0.33891999435424797,0.0522079989314079,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,3953,Sporting Gijon,Atletico Madrid,1,4,2017-02-18 12:00:00,Ángel Correa,Pass
+139873,15,BlockedShot,1.0384500350952148,0.2789800056457519,0.0739556029438972,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3956,Atletico Madrid,Barcelona,1,2,2017-02-26 15:15:00,,None
+139874,25,SavedShot,0.8268500175476073,0.3966399887084961,0.0194528996944427,Antoine Griezmann,h,2270,OpenPlay,2016,RightFoot,3956,Atletico Madrid,Barcelona,1,2,2017-02-26 15:15:00,Yannick Carrasco,Pass
+139885,51,SavedShot,1.0338500175476073,0.5172600112915039,0.106902003288269,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3956,Atletico Madrid,Barcelona,1,2,2017-02-26 15:15:00,Saúl Ñíguez,Throughball
+140974,60,BlockedShot,0.9315,0.2597399887084961,0.1046980023384094,Antoine Griezmann,a,2270,DirectFreekick,2016,LeftFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,,Standard
+140976,67,Goal,0.824549964904785,0.3677800056457519,0.0171556994318962,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Yannick Carrasco,Pass
+139030,2,BlockedShot,1.058,0.331519994354248,0.1296020001173019,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3977,Atletico Madrid,Valencia,3,0,2017-03-05 15:15:00,Yannick Carrasco,Pass
+139031,9,Goal,1.0005,0.463980005645752,0.0664139986038208,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3977,Atletico Madrid,Valencia,3,0,2017-03-05 15:15:00,Koke,Pass
+139032,11,MissedShots,0.8578999824523925,0.4469600112915039,0.0322373993694782,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3977,Atletico Madrid,Valencia,3,0,2017-03-05 15:15:00,Koke,TakeOn
+139045,53,SavedShot,1.0384500350952148,0.27823998870849603,0.2282080054283142,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3977,Atletico Madrid,Valencia,3,0,2017-03-05 15:15:00,Koke,Pass
+139048,69,MissedShots,1.012,0.46323998870849614,0.0987636968493461,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3977,Atletico Madrid,Valencia,3,0,2017-03-05 15:15:00,,BallRecovery
+139050,77,SavedShot,0.8360499649047851,0.3677800056457519,0.0221593007445335,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3977,Atletico Madrid,Valencia,3,0,2017-03-05 15:15:00,Saúl Ñíguez,Pass
+139051,82,Goal,1.0039500350952149,0.42179999999999995,0.4247120022773742,Antoine Griezmann,h,2270,OpenPlay,2016,RightFoot,3977,Atletico Madrid,Valencia,3,0,2017-03-05 15:15:00,Thomas Partey,BallTouch
+139902,41,MissedShots,1.035,0.4366,0.0567978993058204,Antoine Griezmann,a,2270,SetPiece,2016,Head,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Yannick Carrasco,Cross
+139907,53,MissedShots,0.9878500175476074,0.2701,0.066524900496006,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Nicolás Gaitán,Pass
+139920,83,Goal,1.094799964904785,0.3219,0.3690269887447357,Antoine Griezmann,a,2270,FromCorner,2016,Head,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Koke,Cross
+141253,43,MissedShots,1.0545499649047851,0.3145,0.0353505983948707,Antoine Griezmann,h,2270,SetPiece,2016,Head,4001,Atletico Madrid,Sevilla,3,1,2017-03-19 15:15:00,Koke,Aerial
+141257,50,MissedShots,1.0269500350952148,0.4188399887084961,0.4075829982757568,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,4001,Atletico Madrid,Sevilla,3,1,2017-03-19 15:15:00,Kevin Gameiro,Throughball
+141259,60,Goal,0.8671000175476073,0.3048800056457519,0.0704801976680755,Antoine Griezmann,h,2270,DirectFreekick,2016,LeftFoot,4001,Atletico Madrid,Sevilla,3,1,2017-03-19 15:15:00,,Standard
+142334,73,MissedShots,1.049950035095215,0.32041999435424806,0.1210300028324127,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,4008,Malaga,Atletico Madrid,0,2,2017-04-01 19:45:00,Fernando Torres,BallTouch
+141634,18,MissedShots,0.997049964904785,0.37296001129150386,0.1071560010313987,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,4018,Atletico Madrid,Real Sociedad,1,0,2017-04-04 20:30:00,Juanfran,Pass
+141636,21,SavedShot,1.0660499649047852,0.2671399887084961,0.0708699002861976,Antoine Griezmann,h,2270,OpenPlay,2016,RightFoot,4018,Atletico Madrid,Real Sociedad,1,0,2017-04-04 20:30:00,Juanfran,Chipped
+141971,38,SavedShot,0.8498500175476074,0.4351199943542481,0.0352163985371589,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,4026,Real Madrid,Atletico Madrid,1,1,2017-04-08 15:15:00,,BallRecovery
+141984,84,Goal,1.0372999649047852,0.4121800056457519,0.4367319941520691,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,4026,Real Madrid,Atletico Madrid,1,1,2017-04-08 15:15:00,Ángel Correa,Throughball
+142373,46,MissedShots,0.8969999999999999,0.5335399887084961,0.0221027005463838,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Saúl Ñíguez,Pass
+142384,72,Goal,1.0959500350952145,0.46693998870849607,0.3311190009117126,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,,Rebound
+142389,87,MissedShots,0.86825,0.444,0.0299041997641325,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Koke,Pass
+143149,29,SavedShot,0.8049999999999999,0.37961999435424804,0.0201082006096839,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,4060,Atletico Madrid,Villarreal,0,1,2017-04-25 20:30:00,Koke,Pass
+143150,31,SavedShot,1.0372999649047852,0.471380005645752,0.0704680979251861,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,4060,Atletico Madrid,Villarreal,0,1,2017-04-25 20:30:00,,None
+143155,34,SavedShot,0.8901000175476074,0.5476,0.0152935003861784,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,4060,Atletico Madrid,Villarreal,0,1,2017-04-25 20:30:00,Koke,BallRecovery
+143159,59,BlockedShot,0.8613500175476073,0.4151399887084961,0.0153566999360919,Antoine Griezmann,h,2270,SetPiece,2016,RightFoot,4060,Atletico Madrid,Villarreal,0,1,2017-04-25 20:30:00,,Rebound
+143710,7,SavedShot,0.8659500350952147,0.5069,0.0256102997809648,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,4071,Las Palmas,Atletico Madrid,0,5,2017-04-29 17:30:00,Stefan Savic,Pass
+144063,58,SavedShot,0.8556000175476074,0.30931999435424806,0.0222194995731115,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,4081,Atletico Madrid,Eibar,1,0,2017-05-06 15:15:00,Fernando Torres,Pass
+143751,80,BlockedShot,0.8142000350952148,0.38183998870849606,0.0468261986970901,Antoine Griezmann,h,2270,DirectFreekick,2016,LeftFoot,4101,Atletico Madrid,Athletic Club,3,1,2017-05-21 15:45:00,,Standard
+143754,88,ShotOnPost,1.0683500175476075,0.49283998870849605,0.0719991028308868,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,4101,Atletico Madrid,Athletic Club,3,1,2017-05-21 15:45:00,Thomas Partey,Chipped
+169109,50,MissedShots,0.9924500350952148,0.34040000000000004,0.0634514987468719,Antoine Griezmann,a,2270,OpenPlay,2017,LeftFoot,7882,Girona,Atletico Madrid,2,2,2017-08-19 19:15:00,,None
+170030,60,Goal,1.0442000350952148,0.342619994354248,0.4506660103797912,Antoine Griezmann,h,2270,OpenPlay,2017,RightFoot,7918,Atletico Madrid,Malaga,1,0,2017-09-16 19:45:00,Ángel Correa,Pass
+170241,28,SavedShot,0.8268500175476073,0.19388000564575195,0.0344829000532627,Antoine Griezmann,a,2270,DirectFreekick,2017,LeftFoot,7927,Athletic Club,Atletico Madrid,1,2,2017-09-20 19:00:00,,Standard
+170244,36,SavedShot,1.1097499999999998,0.47063998870849605,0.271461009979248,Antoine Griezmann,a,2270,OpenPlay,2017,LeftFoot,7927,Athletic Club,Atletico Madrid,1,2,2017-09-20 19:00:00,Koke,Chipped
+170248,51,SavedShot,0.8429500350952148,0.4869200225830078,0.0188998002558946,Antoine Griezmann,a,2270,OpenPlay,2017,RightFoot,7927,Athletic Club,Atletico Madrid,1,2,2017-09-20 19:00:00,,TakeOn
+170251,62,SavedShot,1.02925,0.47803998870849607,0.3450439870357513,Antoine Griezmann,a,2270,OpenPlay,2017,LeftFoot,7927,Athletic Club,Atletico Madrid,1,2,2017-09-20 19:00:00,Filipe Luis,Pass
+170257,77,SavedShot,0.9407000350952147,0.35076001129150386,0.0628276988863945,Antoine Griezmann,a,2270,OpenPlay,2017,RightFoot,7927,Athletic Club,Atletico Madrid,1,2,2017-09-20 19:00:00,Yannick Carrasco,TakeOn
+170652,38,BlockedShot,1.0039500350952149,0.2604800056457519,0.0611163005232811,Antoine Griezmann,h,2270,OpenPlay,2017,RightFoot,7937,Atletico Madrid,Sevilla,2,0,2017-09-23 12:00:00,Stefan Savic,Chipped
+170665,69,Goal,1.0775499649047853,0.4750799774169922,0.3372170031070709,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,7937,Atletico Madrid,Sevilla,2,0,2017-09-23 12:00:00,Filipe Luis,Pass
+170673,7,SavedShot,1.025799964904785,0.2604800056457519,0.0731621980667114,Antoine Griezmann,h,2270,OpenPlay,2017,RightFoot,7957,Atletico Madrid,Barcelona,1,1,2017-10-14 19:45:00,Ángel Correa,Pass
+170674,8,SavedShot,0.9993500175476074,0.4477,0.1393139958381652,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,7957,Atletico Madrid,Barcelona,1,1,2017-10-14 19:45:00,Gabi,TakeOn
+170681,52,MissedShots,1.035,0.5150399887084961,0.057056501507759,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,7957,Atletico Madrid,Barcelona,1,1,2017-10-14 19:45:00,Koke,Chipped
+171136,27,SavedShot,0.8739999999999999,0.3478,0.0461641997098922,Antoine Griezmann,a,2270,OpenPlay,2017,LeftFoot,7967,Celta Vigo,Atletico Madrid,0,1,2017-10-23 01:15:00,Kevin Gameiro,LayOff
+171144,71,MissedShots,1.0729500350952146,0.38480000000000003,0.4704299867153168,Antoine Griezmann,a,2270,OpenPlay,2017,Head,7967,Celta Vigo,Atletico Madrid,0,1,2017-10-23 01:15:00,Saúl Ñíguez,Cross
+171150,89,MissedShots,0.828,0.3877600112915039,0.0236744005233049,Antoine Griezmann,a,2270,OpenPlay,2017,LeftFoot,7967,Celta Vigo,Atletico Madrid,0,1,2017-10-23 01:15:00,Filipe Luis,Pass
+171731,21,MissedShots,0.9383999824523925,0.26861999435424805,0.0411888994276523,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,7975,Atletico Madrid,Villarreal,1,1,2017-10-28 17:30:00,Ángel Correa,Pass
+171733,28,BlockedShot,0.86825,0.3455800056457519,0.0234220009297132,Antoine Griezmann,h,2270,OpenPlay,2017,RightFoot,7975,Atletico Madrid,Villarreal,1,1,2017-10-28 17:30:00,Saúl Ñíguez,BallRecovery
+171736,31,BlockedShot,0.8923999824523925,0.25529999999999997,0.0209714006632566,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,7975,Atletico Madrid,Villarreal,1,1,2017-10-28 17:30:00,Ángel Correa,Pass
+171739,41,SavedShot,1.1166499824523926,0.4107,0.1077760010957717,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,7975,Atletico Madrid,Villarreal,1,1,2017-10-28 17:30:00,Juanfran,Cross
+171741,42,MissedShots,1.0338500175476073,0.33818000564575196,0.082645297050476,Antoine Griezmann,h,2270,OpenPlay,2017,Head,7975,Atletico Madrid,Villarreal,1,1,2017-10-28 17:30:00,Filipe Luis,Cross
+171755,85,MissedShots,0.8153500175476074,0.3448399887084961,0.0469461008906364,Antoine Griezmann,h,2270,DirectFreekick,2017,LeftFoot,7975,Atletico Madrid,Villarreal,1,1,2017-10-28 17:30:00,,Standard
+172180,45,SavedShot,1.0614500350952147,0.242719994354248,0.0708238035440445,Antoine Griezmann,a,2270,OpenPlay,2017,RightFoot,7984,Deportivo La Coruna,Atletico Madrid,0,1,2017-11-04 15:15:00,Nicolás Gaitán,Pass
+171419,64,Goal,1.0890499649047851,0.4284600112915039,0.5304980278015137,Antoine Griezmann,a,2270,OpenPlay,2017,LeftFoot,8003,Levante,Atletico Madrid,0,5,2017-11-25 19:45:00,Kevin Gameiro,Pass
+171421,67,Goal,1.049950035095215,0.4255,0.3973740041255951,Antoine Griezmann,a,2270,OpenPlay,2017,LeftFoot,8003,Levante,Atletico Madrid,0,5,2017-11-25 19:45:00,,Rebound
+171904,32,BlockedShot,0.8521499824523926,0.47286001129150385,0.0188360996544361,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8013,Atletico Madrid,Real Sociedad,2,1,2017-12-02 15:15:00,Kevin Gameiro,Pass
+171911,59,SavedShot,0.9418500175476073,0.35519999999999996,0.055809698998928,Antoine Griezmann,h,2270,OpenPlay,2017,RightFoot,8013,Atletico Madrid,Real Sociedad,2,1,2017-12-02 15:15:00,Kevin Gameiro,Pass
+171915,71,SavedShot,1.05225,0.3478,0.3528240025043487,Antoine Griezmann,h,2270,OpenPlay,2017,Head,8013,Atletico Madrid,Real Sociedad,2,1,2017-12-02 15:15:00,Yannick Carrasco,Cross
+171921,79,MissedShots,0.9752000350952148,0.372219994354248,0.2364509999752044,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8013,Atletico Madrid,Real Sociedad,2,1,2017-12-02 15:15:00,Saúl Ñíguez,Rebound
+171925,87,Goal,1.1350499649047852,0.3996,0.8196250200271606,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8013,Atletico Madrid,Real Sociedad,2,1,2017-12-02 15:15:00,,None
+184330,46,MissedShots,0.89125,0.3048800056457519,0.0287197008728981,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8034,Atletico Madrid,Alaves,1,0,2017-12-16 19:45:00,Ángel Correa,Pass
+184338,87,SavedShot,1.1039999999999999,0.2826800056457519,0.0961337983608245,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8034,Atletico Madrid,Alaves,1,0,2017-12-16 19:45:00,,None
+186662,9,MissedShots,0.9706000175476074,0.3256,0.3098880052566528,Antoine Griezmann,h,2270,OpenPlay,2017,RightFoot,8050,Atletico Madrid,Getafe,2,0,2018-01-06 12:00:00,Diego Costa,HeadPass
+186671,81,SavedShot,0.8372000350952148,0.3026600112915038,0.0534576997160911,Antoine Griezmann,h,2270,DirectFreekick,2017,LeftFoot,8050,Atletico Madrid,Getafe,2,0,2018-01-06 12:00:00,,Standard
+187622,73,SavedShot,0.9936000175476074,0.2627,0.3369649946689605,Antoine Griezmann,a,2270,OpenPlay,2017,RightFoot,8067,Eibar,Atletico Madrid,0,1,2018-01-13 17:30:00,Yannick Carrasco,Throughball
+188840,0,SavedShot,0.9107999649047851,0.5601799774169922,0.0113998996093869,Antoine Griezmann,h,2270,SetPiece,2017,LeftFoot,8070,Atletico Madrid,Girona,1,1,2018-01-20 15:15:00,,None
+188842,31,MissedShots,0.8786000175476073,0.4151399887084961,0.0825397968292236,Antoine Griezmann,h,2270,DirectFreekick,2017,LeftFoot,8070,Atletico Madrid,Girona,1,1,2018-01-20 15:15:00,,Standard
+188843,33,Goal,1.0717999649047854,0.30783998870849605,0.3744359910488128,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8070,Atletico Madrid,Girona,1,1,2018-01-20 15:15:00,Diego Costa,HeadPass
+188848,69,BlockedShot,0.9464500350952147,0.3522399887084961,0.0745980963110923,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8070,Atletico Madrid,Girona,1,1,2018-01-20 15:15:00,,None
+190404,23,ShotOnPost,1.0821499824523924,0.37888000564575197,0.5241580009460449,Antoine Griezmann,h,2270,OpenPlay,2017,RightFoot,8086,Atletico Madrid,Las Palmas,3,0,2018-01-28 15:15:00,Juanfran,Cross
+190406,33,MissedShots,0.9958999824523925,0.5579600112915039,0.1006269976496696,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8086,Atletico Madrid,Las Palmas,3,0,2018-01-28 15:15:00,Diego Godín,Throughball
+190409,44,SavedShot,0.8797499999999999,0.206459997177124,0.0206336993724107,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8086,Atletico Madrid,Las Palmas,3,0,2018-01-28 15:15:00,Juanfran,Pass
+190412,50,MissedShots,1.0361499824523923,0.5105999999999999,0.0601290985941886,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8086,Atletico Madrid,Las Palmas,3,0,2018-01-28 15:15:00,Yannick Carrasco,Pass
+190416,60,Goal,1.0303999824523924,0.26196001129150387,0.4829330146312713,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8086,Atletico Madrid,Las Palmas,3,0,2018-01-28 15:15:00,Juanfran,Throughball
+190418,63,ShotOnPost,1.0062499999999999,0.4654600112915039,0.3176519870758056,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8086,Atletico Madrid,Las Palmas,3,0,2018-01-28 15:15:00,Saúl Ñíguez,Pass
+190423,85,BlockedShot,0.8164999999999999,0.3248600112915039,0.0464151985943317,Antoine Griezmann,h,2270,DirectFreekick,2017,LeftFoot,8086,Atletico Madrid,Las Palmas,3,0,2018-01-28 15:15:00,,Standard
+195343,43,BlockedShot,1.0303999824523924,0.2671399887084961,0.0905478000640869,Antoine Griezmann,h,2270,OpenPlay,2017,RightFoot,8098,Atletico Madrid,Valencia,1,0,2018-02-04 19:45:00,Ángel Correa,Pass
+195345,52,SavedShot,1.0223500175476072,0.342619994354248,0.0351112000644207,Antoine Griezmann,h,2270,OpenPlay,2017,Head,8098,Atletico Madrid,Valencia,1,0,2018-02-04 19:45:00,Sime Vrsaljko,Aerial
+195572,0,Goal,1.031549964904785,0.27453998870849605,0.3231250047683716,Antoine Griezmann,a,2270,OpenPlay,2017,RightFoot,8108,Malaga,Atletico Madrid,0,1,2018-02-10 15:15:00,,None
+196785,41,BlockedShot,1.112049964904785,0.43289999999999995,0.0918262004852294,Antoine Griezmann,h,2270,FromCorner,2017,LeftFoot,8115,Atletico Madrid,Athletic Club,2,0,2018-02-18 15:15:00,,End
+196793,63,MissedShots,0.8958500175476073,0.49062002258300785,0.0243030991405248,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8115,Atletico Madrid,Athletic Club,2,0,2018-02-18 15:15:00,Diego Costa,Pass
+198058,41,Goal,0.9268999824523925,0.29673998870849605,0.088742196559906,Antoine Griezmann,a,2270,OpenPlay,2017,RightFoot,8127,Sevilla,Atletico Madrid,2,5,2018-02-25 19:45:00,,TakeOn
+198060,50,Goal,1.01775,0.37,0.7432780265808105,Antoine Griezmann,a,2270,Penalty,2017,LeftFoot,8127,Sevilla,Atletico Madrid,2,5,2018-02-25 19:45:00,,Standard
+198063,66,ShotOnPost,1.01775,0.4662,0.3805890083312988,Antoine Griezmann,a,2270,OpenPlay,2017,LeftFoot,8127,Sevilla,Atletico Madrid,2,5,2018-02-25 19:45:00,Koke,HeadPass
+198069,80,Goal,1.0430499649047853,0.3707399887084961,0.547095000743866,Antoine Griezmann,a,2270,OpenPlay,2017,RightFoot,8127,Sevilla,Atletico Madrid,2,5,2018-02-25 19:45:00,Saúl Ñíguez,Pass
+198310,15,ShotOnPost,0.8659500350952147,0.40551999435424807,0.0741780996322631,Antoine Griezmann,h,2270,DirectFreekick,2017,LeftFoot,8135,Atletico Madrid,Leganes,4,0,2018-02-28 20:30:00,,Standard
+198314,25,Goal,1.0097000350952148,0.3344800056457519,0.3583100140094757,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8135,Atletico Madrid,Leganes,4,0,2018-02-28 20:30:00,Koke,Throughball
+198315,34,Goal,0.9177000350952148,0.3337399887084961,0.1261419951915741,Antoine Griezmann,h,2270,DirectFreekick,2017,LeftFoot,8135,Atletico Madrid,Leganes,4,0,2018-02-28 20:30:00,,Standard
+198316,38,SavedShot,1.0223500175476072,0.42179999999999995,0.5065280199050903,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8135,Atletico Madrid,Leganes,4,0,2018-02-28 20:30:00,Diego Costa,Throughball
+198319,51,SavedShot,0.9671499824523925,0.5113399887084961,0.0559949018061161,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8135,Atletico Madrid,Leganes,4,0,2018-02-28 20:30:00,Diego Costa,Pass
+198321,55,Goal,1.0442000350952148,0.37,0.3407529890537262,Antoine Griezmann,h,2270,OpenPlay,2017,Head,8135,Atletico Madrid,Leganes,4,0,2018-02-28 20:30:00,Filipe Luis,Cross
+198323,66,Goal,1.049950035095215,0.3448399887084961,0.414788007736206,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8135,Atletico Madrid,Leganes,4,0,2018-02-28 20:30:00,Diego Costa,Cross
+199432,73,MissedShots,0.882049964904785,0.40181999435424803,0.0281975008547306,Antoine Griezmann,a,2270,OpenPlay,2017,LeftFoot,8146,Barcelona,Atletico Madrid,1,0,2018-03-04 15:15:00,Diego Costa,Pass
+200727,43,Goal,1.0729500350952146,0.442519994354248,0.4327209889888763,Antoine Griezmann,h,2270,FromCorner,2017,RightFoot,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,Giménez,None
+202182,19,Goal,1.01775,0.37,0.7432780265808105,Antoine Griezmann,a,2270,Penalty,2017,LeftFoot,8165,Villarreal,Atletico Madrid,2,1,2018-03-18 17:30:00,,Standard
+202198,69,MissedShots,0.9533500175476074,0.46916001129150386,0.078407697379589,Antoine Griezmann,a,2270,OpenPlay,2017,RightFoot,8165,Villarreal,Atletico Madrid,2,1,2018-03-18 17:30:00,Ángel Correa,Pass
+207693,56,Goal,1.0418999824523922,0.36186001129150386,0.5087519884109497,Antoine Griezmann,a,2270,OpenPlay,2017,LeftFoot,8188,Real Madrid,Atletico Madrid,1,1,2018-04-08 14:15:00,Vitolo,Pass
+207695,61,BlockedShot,0.9292000350952148,0.3522399887084961,0.1079590022563934,Antoine Griezmann,a,2270,OpenPlay,2017,LeftFoot,8188,Real Madrid,Atletico Madrid,1,1,2018-04-08 14:15:00,Ángel Correa,Throughball
+209164,9,BlockedShot,0.7957999649047851,0.3455800056457519,0.0398101992905139,Antoine Griezmann,h,2270,DirectFreekick,2017,LeftFoot,8193,Atletico Madrid,Levante,3,0,2018-04-15 14:15:00,,Standard
+209174,46,BlockedShot,1.0361499824523923,0.17464000282287592,0.0383004993200302,Antoine Griezmann,h,2270,FromCorner,2017,LeftFoot,8193,Atletico Madrid,Levante,3,0,2018-04-15 14:15:00,Ángel Correa,Pass
+209175,47,Goal,1.0062499999999999,0.3233800056457519,0.1163809970021247,Antoine Griezmann,h,2270,OpenPlay,2017,RightFoot,8193,Atletico Madrid,Levante,3,0,2018-04-15 14:15:00,Sime Vrsaljko,Pass
+210023,28,MissedShots,0.9912999649047851,0.386280005645752,0.0994552969932556,Antoine Griezmann,a,2270,OpenPlay,2017,LeftFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Saúl Ñíguez,LayOff
+216608,86,SavedShot,0.8521499824523926,0.257519994354248,0.0174327008426189,Antoine Griezmann,h,2270,OpenPlay,2017,LeftFoot,8250,Atletico Madrid,Eibar,2,2,2018-05-20 16:00:00,Diego Costa,Pass
+220460,60,MissedShots,0.8406499824523925,0.5305799774169921,0.0108497999608516,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,9970,Atletico Madrid,Rayo Vallecano,1,0,2018-08-25 21:15:00,Stefan Savic,Chipped
+220462,62,Goal,1.1155,0.3448399887084961,0.6943449974060059,Antoine Griezmann,h,2270,FromCorner,2018,LeftFoot,9970,Atletico Madrid,Rayo Vallecano,1,0,2018-08-25 21:15:00,Stefan Savic,Rebound
+221891,26,MissedShots,0.9177000350952148,0.2641800056457519,0.0310736000537872,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,9980,Celta Vigo,Atletico Madrid,2,0,2018-09-01 16:30:00,Diego Costa,Pass
+221892,33,BlockedShot,0.9786499824523925,0.19758000564575195,0.0289600007236003,Antoine Griezmann,a,2270,OpenPlay,2018,RightFoot,9980,Celta Vigo,Atletico Madrid,2,0,2018-09-01 16:30:00,Ángel Correa,Pass
+221907,96,MissedShots,1.0545499649047851,0.26861999435424805,0.0618762001395225,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,9980,Celta Vigo,Atletico Madrid,2,0,2018-09-01 16:30:00,,None
+223248,12,SavedShot,1.0856000175476075,0.24716001129150392,0.2920219898223877,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,9988,Atletico Madrid,Eibar,1,1,2018-09-15 11:00:00,Juanfran,TakeOn
+223251,24,SavedShot,0.9096499824523925,0.452880005645752,0.029671499505639,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,9988,Atletico Madrid,Eibar,1,1,2018-09-15 11:00:00,Diego Costa,Pass
+223267,69,SavedShot,1.0027999649047852,0.45213998870849614,0.2929069995880127,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,9988,Atletico Madrid,Eibar,1,1,2018-09-15 11:00:00,Rodri,Chipped
+225350,12,MissedShots,0.6853999824523925,0.4795200225830078,0.0115841999650001,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,9999,Getafe,Atletico Madrid,0,2,2018-09-22 16:30:00,Rodri,Pass
+225357,47,MissedShots,0.9487499999999999,0.4736,0.0568713992834091,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,9999,Getafe,Atletico Madrid,0,2,2018-09-22 16:30:00,Filipe Luis,Pass
+225366,86,SavedShot,0.9199999999999999,0.20054000282287593,0.0344525016844272,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,9999,Getafe,Atletico Madrid,0,2,2018-09-22 16:30:00,Juanfran,Pass
+225367,91,SavedShot,0.9958999824523925,0.4284600112915039,0.4789719879627228,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,9999,Getafe,Atletico Madrid,0,2,2018-09-22 16:30:00,Ángel Correa,Throughball
+226398,15,Goal,1.0487999649047852,0.32633998870849606,0.4726670086383819,Antoine Griezmann,h,2270,OpenPlay,2018,RightFoot,10014,Atletico Madrid,SD Huesca,3,0,2018-09-25 20:00:00,Diego Costa,Pass
+226408,36,SavedShot,0.8590499649047851,0.27083998870849607,0.0299928002059459,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10014,Atletico Madrid,SD Huesca,3,0,2018-09-25 20:00:00,Thomas Partey,Pass
+226409,47,BlockedShot,0.8222499999999999,0.202019994354248,0.0345516987144947,Antoine Griezmann,h,2270,DirectFreekick,2018,LeftFoot,10014,Atletico Madrid,SD Huesca,3,0,2018-09-25 20:00:00,,Standard
+228399,4,MissedShots,1.0039500350952149,0.47286001129150385,0.0339258015155792,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10022,Real Madrid,Atletico Madrid,0,0,2018-09-29 18:45:00,Saúl Ñíguez,Cross
+228401,17,SavedShot,1.0372999649047852,0.5105999999999999,0.3014990091323852,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10022,Real Madrid,Atletico Madrid,0,0,2018-09-29 18:45:00,Koke,Throughball
+258067,27,BlockedShot,0.9315,0.46693998870849607,0.0366786010563373,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10034,Atletico Madrid,Real Betis,1,0,2018-10-07 14:15:00,Koke,Pass
+258068,36,MissedShots,1.0108500175476074,0.29673998870849605,0.0286928992718458,Antoine Griezmann,h,2270,OpenPlay,2018,Head,10034,Atletico Madrid,Real Betis,1,0,2018-10-07 14:15:00,Juanfran,Cross
+258071,50,MissedShots,1.0453500175476074,0.5505600112915039,0.0434532985091209,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10034,Atletico Madrid,Real Betis,1,0,2018-10-07 14:15:00,Koke,Chipped
+258264,26,MissedShots,0.8877999649047851,0.206459997177124,0.0205390006303787,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10042,Villarreal,Atletico Madrid,1,1,2018-10-20 16:30:00,Thomas Partey,LayOff
+258600,24,MissedShots,1.0959500350952145,0.29896001129150385,0.1284289956092834,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10053,Atletico Madrid,Real Sociedad,2,0,2018-10-27 18:45:00,Ángel Correa,Pass
+258601,29,BlockedShot,0.9153999824523925,0.16945999717712398,0.0148027995601296,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10053,Atletico Madrid,Real Sociedad,2,0,2018-10-27 18:45:00,Diego Godín,Chipped
+258615,88,MissedShots,0.9993500175476074,0.4869200225830078,0.0879838988184928,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10053,Atletico Madrid,Real Sociedad,2,0,2018-10-27 18:45:00,Diego Costa,Pass
+258728,53,SavedShot,0.9625499649047851,0.10804000282287592,0.044326301664114,Antoine Griezmann,a,2270,DirectFreekick,2018,LeftFoot,10061,Leganes,Atletico Madrid,1,1,2018-11-03 12:00:00,,Standard
+258729,59,BlockedShot,0.8786000175476073,0.2812,0.0204105991870164,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10061,Leganes,Atletico Madrid,1,1,2018-11-03 12:00:00,Santiago Arias,Pass
+258733,68,Goal,0.8222499999999999,0.3692600112915039,0.0504156984388828,Antoine Griezmann,a,2270,DirectFreekick,2018,LeftFoot,10061,Leganes,Atletico Madrid,1,1,2018-11-03 12:00:00,,Standard
+258734,70,SavedShot,0.9107999649047851,0.4795200225830078,0.0411836989223957,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10061,Leganes,Atletico Madrid,1,1,2018-11-03 12:00:00,,None
+258738,91,MissedShots,1.014299964904785,0.4351199943542481,0.1016329973936081,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10061,Leganes,Atletico Madrid,1,1,2018-11-03 12:00:00,Filipe Luis,Pass
+259067,53,BlockedShot,0.9774999999999999,0.195359997177124,0.0284429006278514,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10069,Atletico Madrid,Athletic Club,3,2,2018-11-10 17:30:00,Thomas Partey,Pass
+259357,82,MissedShots,0.8981499824523925,0.23828000564575194,0.0706240013241767,Antoine Griezmann,h,2270,DirectFreekick,2018,LeftFoot,10077,Atletico Madrid,Barcelona,1,1,2018-11-24 19:45:00,,Standard
+259624,4,SavedShot,0.8556000175476074,0.4758200225830078,0.019548200070858,Antoine Griezmann,a,2270,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Thomas Partey,Pass
+259625,5,MissedShots,1.1155,0.33078000564575194,0.0843996033072471,Antoine Griezmann,a,2270,FromCorner,2018,Head,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Thomas Partey,Aerial
+259634,29,BlockedShot,0.9372499999999999,0.5105999999999999,0.0278389994055032,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Thomas Lemar,Pass
+259644,65,BlockedShot,0.86825,0.33891999435424797,0.0263356007635593,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Koke,Pass
+259653,94,BlockedShot,0.8877999649047851,0.33743998870849606,0.0309399999678134,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Thomas Partey,Pass
+259773,61,MissedShots,0.9982000350952148,0.4736,0.0782290026545524,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10101,Atletico Madrid,Alaves,3,0,2018-12-08 12:00:00,Thomas Lemar,Pass
+259777,81,Goal,1.1350499649047852,0.3219,0.6352710127830505,Antoine Griezmann,h,2270,OpenPlay,2018,RightFoot,10101,Atletico Madrid,Alaves,3,0,2018-12-08 12:00:00,,None
+259776,81,BlockedShot,1.0188999824523925,0.31968000564575194,0.1479749977588653,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10101,Atletico Madrid,Alaves,3,0,2018-12-08 12:00:00,Vitolo,Throughball
+260055,23,BlockedShot,0.8647999649047851,0.3677800056457519,0.0163435991853475,Antoine Griezmann,a,2270,SetPiece,2018,RightFoot,10111,Real Valladolid,Atletico Madrid,2,3,2018-12-15 15:15:00,,Rebound
+260059,43,BlockedShot,0.9602499999999999,0.346319994354248,0.0883819982409477,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10111,Real Valladolid,Atletico Madrid,2,3,2018-12-15 15:15:00,Santiago Arias,Pass
+260060,45,Goal,1.01775,0.37,0.7432780265808105,Antoine Griezmann,a,2270,Penalty,2018,LeftFoot,10111,Real Valladolid,Atletico Madrid,2,3,2018-12-15 15:15:00,,Standard
+260067,75,MissedShots,1.02925,0.29673998870849605,0.1087810024619102,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10111,Real Valladolid,Atletico Madrid,2,3,2018-12-15 15:15:00,Santiago Arias,Pass
+260070,79,Goal,1.0878999824523923,0.4787799774169922,0.0578971989452838,Antoine Griezmann,a,2270,FromCorner,2018,LeftFoot,10111,Real Valladolid,Atletico Madrid,2,3,2018-12-15 15:15:00,Stefan Savic,Pass
+260072,94,SavedShot,1.1086000175476074,0.46176001129150385,0.0827433988451957,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10111,Real Valladolid,Atletico Madrid,2,3,2018-12-15 15:15:00,Rodri,Chipped
+260331,20,SavedShot,0.9062000350952149,0.4987600112915039,0.0237457007169723,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10118,Atletico Madrid,Espanyol,1,0,2018-12-22 15:15:00,Saúl Ñíguez,HeadPass
+260339,41,SavedShot,1.0062499999999999,0.18055999717712398,0.026953499764204,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10118,Atletico Madrid,Espanyol,1,0,2018-12-22 15:15:00,Ángel Correa,Pass
+260340,43,SavedShot,1.0453500175476074,0.213859997177124,0.0416768006980419,Antoine Griezmann,h,2270,OpenPlay,2018,RightFoot,10118,Atletico Madrid,Espanyol,1,0,2018-12-22 15:15:00,Koke,Pass
+260345,55,Goal,1.01775,0.37,0.743149995803833,Antoine Griezmann,h,2270,Penalty,2018,LeftFoot,10118,Atletico Madrid,Espanyol,1,0,2018-12-22 15:15:00,,Standard
+279957,22,BlockedShot,0.8268500175476073,0.4232800056457519,0.0189341995865106,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10131,Sevilla,Atletico Madrid,1,1,2019-01-06 15:15:00,Thomas Partey,Pass
+279959,26,SavedShot,0.8797499999999999,0.346319994354248,0.027837099507451,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10131,Sevilla,Atletico Madrid,1,1,2019-01-06 15:15:00,Ángel Correa,Pass
+279966,38,SavedShot,0.8521499824523926,0.206459997177124,0.0168066006153821,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10131,Sevilla,Atletico Madrid,1,1,2019-01-06 15:15:00,Thomas Lemar,Pass
+279968,44,Goal,0.9292000350952148,0.35519999999999996,0.1481750011444091,Antoine Griezmann,a,2270,DirectFreekick,2018,LeftFoot,10131,Sevilla,Atletico Madrid,1,1,2019-01-06 15:15:00,,Standard
+279976,80,MissedShots,0.9982000350952148,0.15318000564575193,0.017112199217081,Antoine Griezmann,a,2270,FromCorner,2018,LeftFoot,10131,Sevilla,Atletico Madrid,1,1,2019-01-06 15:15:00,Thomas Partey,Chipped
+279977,81,SavedShot,1.0108500175476074,0.2804600112915039,0.3678590059280395,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10131,Sevilla,Atletico Madrid,1,1,2019-01-06 15:15:00,Thomas Partey,Throughball
+280192,4,MissedShots,1.1028500175476075,0.3922,0.7270330190658569,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10145,Atletico Madrid,Levante,1,0,2019-01-13 11:00:00,Ángel Correa,Pass
+280198,34,SavedShot,1.1223999824523925,0.3071,0.0915244966745376,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10145,Atletico Madrid,Levante,1,0,2019-01-13 11:00:00,,None
+280199,39,MissedShots,0.8947000350952148,0.2841600112915039,0.0264225006103515,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10145,Atletico Madrid,Levante,1,0,2019-01-13 11:00:00,Koke,Pass
+280200,44,BlockedShot,1.0234999999999999,0.26121999435424803,0.057906899601221,Antoine Griezmann,h,2270,SetPiece,2018,LeftFoot,10145,Atletico Madrid,Levante,1,0,2019-01-13 11:00:00,,None
+280205,56,Goal,1.01775,0.37,0.7432780265808105,Antoine Griezmann,h,2270,Penalty,2018,LeftFoot,10145,Atletico Madrid,Levante,1,0,2019-01-13 11:00:00,,Standard
+280215,90,SavedShot,0.9717499999999999,0.250119994354248,0.0697508007287979,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10145,Atletico Madrid,Levante,1,0,2019-01-13 11:00:00,,TakeOn
+280364,15,BlockedShot,1.0016499824523926,0.2849,0.0794825032353401,Antoine Griezmann,a,2270,OpenPlay,2018,RightFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Thomas Lemar,Pass
+280368,25,MissedShots,0.9188500175476073,0.468419994354248,0.1001249998807907,Antoine Griezmann,a,2270,DirectFreekick,2018,LeftFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,,Standard
+280384,70,ShotOnPost,1.0717999649047854,0.4225399887084961,0.0498461984097957,Antoine Griezmann,a,2270,OpenPlay,2018,Head,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Lucas Hernández,Aerial
+280391,92,BlockedShot,0.9855499649047851,0.179819994354248,0.0466637015342712,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Ángel Correa,Pass
+280601,26,Goal,0.9418500175476073,0.4588,0.0385071001946926,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10164,Atletico Madrid,Getafe,2,0,2019-01-26 15:15:00,Thomas Partey,Pass
+280602,34,MissedShots,0.8556000175476074,0.4062600112915039,0.0670799985527992,Antoine Griezmann,h,2270,DirectFreekick,2018,LeftFoot,10164,Atletico Madrid,Getafe,2,0,2019-01-26 15:15:00,,Standard
+280947,17,BlockedShot,0.9326499824523925,0.2671399887084961,0.0390385016798973,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10170,Real Betis,Atletico Madrid,1,0,2019-02-03 15:15:00,Santiago Arias,Pass
+280950,47,MissedShots,1.0097000350952148,0.29451999435424797,0.0282550994306802,Antoine Griezmann,a,2270,OpenPlay,2018,Head,10170,Real Betis,Atletico Madrid,1,0,2019-02-03 15:15:00,Juanfran,Cross
+280952,51,MissedShots,0.98325,0.3293,0.0939560979604721,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10170,Real Betis,Atletico Madrid,1,0,2019-02-03 15:15:00,Ángel Correa,Pass
+280957,66,ShotOnPost,0.9372499999999999,0.21089999999999998,0.0239422004669904,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10170,Real Betis,Atletico Madrid,1,0,2019-02-03 15:15:00,Ángel Correa,Pass
+280961,83,BlockedShot,0.8832000350952148,0.49432002258300783,0.0650276020169258,Antoine Griezmann,a,2270,DirectFreekick,2018,LeftFoot,10170,Real Betis,Atletico Madrid,1,0,2019-02-03 15:15:00,,Standard
+281104,1,MissedShots,1.0487999649047852,0.5231799774169922,0.055290300399065,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Thomas Lemar,Pass
+281110,24,Goal,0.9752000350952148,0.2715800056457519,0.528846025466919,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Ángel Correa,Throughball
+281112,31,MissedShots,1.0602999649047853,0.42771999435424807,0.0644251033663749,Antoine Griezmann,h,2270,FromCorner,2018,LeftFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Thomas Partey,Cross
+281117,51,MissedShots,0.9303500175476074,0.3589,0.047256801277399,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Álvaro Morata,BallTouch
+281356,73,Goal,1.0465,0.4662,0.0951379016041755,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10191,Rayo Vallecano,Atletico Madrid,0,1,2019-02-16 15:15:00,Álvaro Morata,Pass
+281689,4,BlockedShot,0.824549964904785,0.4869200225830078,0.0419141016900539,Antoine Griezmann,h,2270,DirectFreekick,2018,LeftFoot,10204,Atletico Madrid,Villarreal,2,0,2019-02-24 15:15:00,,Standard
+281691,12,SavedShot,0.9107999649047851,0.16428000564575193,0.0207225997000932,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10204,Atletico Madrid,Villarreal,2,0,2019-02-24 15:15:00,Koke,Pass
+281693,20,MissedShots,1.0039500350952149,0.2900800056457519,0.0545617006719112,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10204,Atletico Madrid,Villarreal,2,0,2019-02-24 15:15:00,Santiago Arias,Cross
+281958,15,BlockedShot,0.9326499824523925,0.23828000564575194,0.0276439003646373,Antoine Griezmann,a,2270,OpenPlay,2018,RightFoot,10209,Real Sociedad,Atletico Madrid,0,2,2019-03-03 17:30:00,,None
+284584,5,MissedShots,0.9924500350952148,0.2701,0.0727562010288238,Antoine Griezmann,h,2270,OpenPlay,2018,RightFoot,10224,Atletico Madrid,Leganes,1,0,2019-03-09 15:15:00,Ángel Correa,Pass
+284588,29,MissedShots,0.8130499649047851,0.209419994354248,0.0151271000504493,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10224,Atletico Madrid,Leganes,1,0,2019-03-09 15:15:00,Vitolo,Pass
+286415,52,MissedShots,0.8027000350952147,0.4255,0.015048099681735,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10227,Athletic Club,Atletico Madrid,2,0,2019-03-16 17:30:00,Koke,Pass
+287832,68,SavedShot,0.9522000350952148,0.3611199943542481,0.3944199979305267,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10237,Alaves,Atletico Madrid,0,4,2019-03-30 19:45:00,Thomas Lemar,BallTouch
+290952,11,SavedShot,0.9912999649047851,0.22274000282287593,0.0449492000043392,Antoine Griezmann,h,2270,OpenPlay,2018,RightFoot,10255,Atletico Madrid,Girona,2,0,2019-04-02 18:30:00,Santiago Arias,Pass
+290955,25,BlockedShot,0.8947000350952148,0.2368,0.0235092993825674,Antoine Griezmann,h,2270,OpenPlay,2018,RightFoot,10255,Atletico Madrid,Girona,2,0,2019-04-02 18:30:00,Koke,Pass
+290970,75,SavedShot,1.1039999999999999,0.3707399887084961,0.4856230020523071,Antoine Griezmann,h,2270,FromCorner,2018,Head,10255,Atletico Madrid,Girona,2,0,2019-04-02 18:30:00,,None
+290973,87,SavedShot,1.0212000350952148,0.3026600112915038,0.390828013420105,Antoine Griezmann,h,2270,OpenPlay,2018,RightFoot,10255,Atletico Madrid,Girona,2,0,2019-04-02 18:30:00,Saúl Ñíguez,Throughball
+290977,93,Goal,0.9763500175476074,0.3996,0.3662750124931335,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10255,Atletico Madrid,Girona,2,0,2019-04-02 18:30:00,Vitolo,Pass
+292329,19,SavedShot,1.0487999649047852,0.2183,0.1062190011143684,Antoine Griezmann,a,2270,OpenPlay,2018,RightFoot,10261,Barcelona,Atletico Madrid,2,0,2019-04-06 19:45:00,Koke,Throughball
+292342,67,SavedShot,0.9119500350952148,0.17464000282287592,0.0536623001098632,Antoine Griezmann,a,2270,DirectFreekick,2018,LeftFoot,10261,Barcelona,Atletico Madrid,2,0,2019-04-06 19:45:00,,Standard
+293750,6,MissedShots,0.9602499999999999,0.4987600112915039,0.0388077013194561,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10273,Atletico Madrid,Celta Vigo,2,0,2019-04-13 17:30:00,Filipe Luis,Pass
+293751,8,SavedShot,0.9050499649047851,0.20498000564575192,0.019268799573183,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10273,Atletico Madrid,Celta Vigo,2,0,2019-04-13 17:30:00,Koke,Pass
+293758,33,MissedShots,0.9292000350952148,0.221259997177124,0.0265171006321907,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10273,Atletico Madrid,Celta Vigo,2,0,2019-04-13 17:30:00,Ángel Correa,Pass
+293759,41,Goal,0.9038999824523924,0.2826800056457519,0.0920566990971565,Antoine Griezmann,h,2270,DirectFreekick,2018,LeftFoot,10273,Atletico Madrid,Celta Vigo,2,0,2019-04-13 17:30:00,,Standard
+293763,72,BlockedShot,0.9843999824523926,0.3707399887084961,0.1220690011978149,Antoine Griezmann,h,2270,OpenPlay,2018,RightFoot,10273,Atletico Madrid,Celta Vigo,2,0,2019-04-13 17:30:00,Ángel Correa,TakeOn
+293767,81,BlockedShot,1.0568500175476074,0.2627,0.4534339904785156,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10273,Atletico Madrid,Celta Vigo,2,0,2019-04-13 17:30:00,Ángel Correa,Chipped
+296685,6,BlockedShot,1.0568500175476074,0.4136600112915039,0.1327520012855529,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Thomas Lemar,Pass
+296698,48,Goal,1.0821499824523924,0.3515,0.5215089917182922,Antoine Griezmann,h,2270,OpenPlay,2018,Head,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Thomas Lemar,Cross
+296704,77,MissedShots,1.0269500350952148,0.32263998870849603,0.0626638010144233,Antoine Griezmann,h,2270,OpenPlay,2018,Head,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Juanfran,Cross
+296706,82,MissedShots,1.0614500350952147,0.3611199943542481,0.0862295031547546,Antoine Griezmann,h,2270,OpenPlay,2018,Head,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,,Aerial
+296709,92,SavedShot,0.7854500350952147,0.3626,0.0369313992559909,Antoine Griezmann,h,2270,DirectFreekick,2018,LeftFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,,Standard
+297473,13,MissedShots,0.9936000175476074,0.4210600112915039,0.0973796993494033,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10297,Atletico Madrid,Real Valladolid,1,0,2019-04-27 15:15:00,Álvaro Morata,Pass
+297474,18,MissedShots,1.0626000175476074,0.3322600112915039,0.0581000000238418,Antoine Griezmann,h,2270,OpenPlay,2018,Head,10297,Atletico Madrid,Real Valladolid,1,0,2019-04-27 15:15:00,Santiago Arias,Foul
+297475,19,SavedShot,0.818799964904785,0.14578000564575194,0.027930699288845,Antoine Griezmann,h,2270,DirectFreekick,2018,LeftFoot,10297,Atletico Madrid,Real Valladolid,1,0,2019-04-27 15:15:00,,Standard
+297484,58,MissedShots,1.100549964904785,0.30783998870849605,0.0420093983411788,Antoine Griezmann,h,2270,FromCorner,2018,Head,10297,Atletico Madrid,Real Valladolid,1,0,2019-04-27 15:15:00,Koke,Aerial
+299327,51,BlockedShot,0.974049964904785,0.41291999435424803,0.0601520016789436,Antoine Griezmann,a,2270,SetPiece,2018,LeftFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,,None
+299338,86,BlockedShot,0.8176499824523925,0.4299399887084961,0.0134886000305414,Antoine Griezmann,a,2270,FromCorner,2018,LeftFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,,None
+301742,12,BlockedShot,0.8441000175476074,0.39293998870849606,0.0610898993909359,Antoine Griezmann,h,2270,DirectFreekick,2018,LeftFoot,10325,Atletico Madrid,Sevilla,1,1,2019-05-12 17:30:00,,Standard
+302152,22,MissedShots,0.9303500175476074,0.5039399887084961,0.0895624980330467,Antoine Griezmann,a,2270,DirectFreekick,2018,LeftFoot,10330,Levante,Atletico Madrid,2,2,2019-05-18 11:00:00,,Standard
+302153,24,SavedShot,0.9383999824523925,0.39071999435424803,0.0438496991991996,Antoine Griezmann,a,2270,OpenPlay,2018,RightFoot,10330,Levante,Atletico Madrid,2,2,2019-05-18 11:00:00,Thomas Lemar,Pass
+302168,67,BlockedShot,0.8751499824523925,0.3145,0.0779543966054916,Antoine Griezmann,a,2270,DirectFreekick,2018,LeftFoot,10330,Levante,Atletico Madrid,2,2,2019-05-18 11:00:00,,Standard
+310393,52,MissedShots,1.112049964904785,0.2597399887084961,0.0157463997602462,Antoine Griezmann,a,2270,FromCorner,2019,Head,12026,Athletic Club,Barcelona,1,0,2019-08-16 20:00:00,Rafinha,Cross
+310400,82,BlockedShot,1.0223500175476072,0.43438000564575197,0.1061040014028549,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12026,Athletic Club,Barcelona,1,0,2019-08-16 20:00:00,Jordi Alba,Pass
+310401,83,MissedShots,1.035,0.40700000000000003,0.0726962015032768,Antoine Griezmann,a,2270,FromCorner,2019,Head,12026,Athletic Club,Barcelona,1,0,2019-08-16 20:00:00,Rafinha,Cross
+313470,6,BlockedShot,0.9153999824523925,0.24123998870849606,0.0276252999901771,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12042,Barcelona,Real Betis,5,2,2019-08-25 20:00:00,Carles Pérez,Tackle
+313472,13,SavedShot,0.9682999649047851,0.4077399887084961,0.0828301981091499,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12042,Barcelona,Real Betis,5,2,2019-08-25 20:00:00,Rafinha,Pass
+313475,24,BlockedShot,1.05225,0.4284600112915039,0.0843088999390602,Antoine Griezmann,h,2270,FromCorner,2019,RightFoot,12042,Barcelona,Real Betis,5,2,2019-08-25 20:00:00,Sergio Busquets,Pass
+313479,40,Goal,1.0476499824523924,0.386280005645752,0.3213309943675995,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12042,Barcelona,Real Betis,5,2,2019-08-25 20:00:00,Sergi Roberto,Chipped
+313481,49,Goal,0.9671499824523925,0.22274000282287593,0.0326346009969711,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12042,Barcelona,Real Betis,5,2,2019-08-25 20:00:00,Sergi Roberto,Pass
+313491,90,SavedShot,1.106299964904785,0.257519994354248,0.0788566023111343,Antoine Griezmann,h,2270,OpenPlay,2019,RightFoot,12042,Barcelona,Real Betis,5,2,2019-08-25 20:00:00,Anssumane Fati,Cross
+313492,91,BlockedShot,0.9303500175476074,0.29673998870849605,0.0616924986243248,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12042,Barcelona,Real Betis,5,2,2019-08-25 20:00:00,Júnior Firpo,Pass
+317713,44,MissedShots,0.8532999649047851,0.242719994354248,0.023387199267745,Antoine Griezmann,h,2270,OpenPlay,2019,RightFoot,12054,Barcelona,Valencia,5,2,2019-09-14 19:00:00,Sergio Busquets,Pass
+317715,50,SavedShot,0.9372499999999999,0.2923,0.0532037988305091,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12054,Barcelona,Valencia,5,2,2019-09-14 19:00:00,Arthur,Pass
+317719,63,SavedShot,1.012,0.33743998870849606,0.3825840055942535,Antoine Griezmann,h,2270,OpenPlay,2019,RightFoot,12054,Barcelona,Valencia,5,2,2019-09-14 19:00:00,Frenkie de Jong,Pass
+320834,74,BlockedShot,1.0188999824523925,0.27601999435424807,0.0830726996064186,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12065,Granada,Barcelona,2,0,2019-09-21 19:00:00,Lionel Messi,Pass
+321616,5,Goal,1.1258500175476076,0.31746001129150386,0.1248319968581199,Antoine Griezmann,h,2270,FromCorner,2019,Head,12073,Barcelona,Villarreal,2,1,2019-09-24 19:00:00,Lionel Messi,Cross
+321618,14,BlockedShot,1.0062499999999999,0.41958000564575193,0.1146200001239776,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12073,Barcelona,Villarreal,2,1,2019-09-24 19:00:00,Luis Suárez,Pass
+321632,92,MissedShots,0.9867000350952148,0.33003998870849605,0.0914810001850128,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12073,Barcelona,Villarreal,2,1,2019-09-24 19:00:00,,None
+322756,67,SavedShot,0.9809500350952147,0.5335399887084961,0.0499446988105773,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12088,Getafe,Barcelona,0,2,2019-09-28 14:00:00,Júnior Firpo,Pass
+325264,12,Goal,1.031549964904785,0.461019994354248,0.2773459851741791,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12106,Eibar,Barcelona,0,3,2019-10-19 12:00:00,Clement Lenglet,Chipped
+329228,30,SavedShot,1.0511000175476073,0.2442,0.217846006155014,Antoine Griezmann,a,2270,OpenPlay,2019,RightFoot,12137,Levante,Barcelona,3,1,2019-11-02 15:00:00,Lionel Messi,Pass
+331042,28,MissedShots,0.9694500350952148,0.4898799774169922,0.0623571015894413,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12146,Barcelona,Celta Vigo,4,1,2019-11-09 20:00:00,,None
+331051,61,SavedShot,1.035,0.5091200225830078,0.2339529991149902,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12146,Barcelona,Celta Vigo,4,1,2019-11-09 20:00:00,Lionel Messi,Pass
+331894,17,BlockedShot,0.8866499824523925,0.5535200225830078,0.0183617994189262,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12157,Leganes,Barcelona,1,2,2019-11-23 12:00:00,Sergio Busquets,Pass
+334644,46,SavedShot,0.9107999649047851,0.5261399887084961,0.0242577996104955,Antoine Griezmann,a,2270,OpenPlay,2019,RightFoot,12165,Atletico Madrid,Barcelona,0,1,2019-12-01 20:00:00,Júnior Firpo,Pass
+334650,68,MissedShots,1.0212000350952148,0.2886,0.3943229913711548,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12165,Atletico Madrid,Barcelona,0,1,2019-12-01 20:00:00,Luis Suárez,Chipped
+336036,6,Goal,1.0602999649047853,0.43438000564575197,0.2908819913864136,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12173,Barcelona,Mallorca,5,2,2019-12-07 20:00:00,Marc-André ter Stegen,Chipped
+336050,51,SavedShot,1.025799964904785,0.45066001129150396,0.3085620105266571,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12173,Barcelona,Mallorca,5,2,2019-12-07 20:00:00,Frenkie de Jong,Pass
+337010,5,BlockedShot,1.0487999649047852,0.49136001129150386,0.0828137993812561,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Jordi Alba,Pass
+337018,37,Goal,1.025799964904785,0.4395600112915039,0.368461012840271,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Luis Suárez,Pass
+337021,51,SavedShot,1.0188999824523925,0.4972799774169922,0.0736657977104187,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Clement Lenglet,Chipped
+338269,63,BlockedShot,1.0108500175476074,0.23088000564575192,0.0390923991799354,Antoine Griezmann,h,2270,OpenPlay,2019,RightFoot,12113,Barcelona,Real Madrid,0,0,2019-12-18 19:00:00,Luis Suárez,HeadPass
+338667,13,Goal,0.9855499649047851,0.37888000564575197,0.1031600013375282,Antoine Griezmann,h,2270,OpenPlay,2019,RightFoot,12193,Barcelona,Alaves,4,1,2019-12-21 15:00:00,Luis Suárez,Pass
+353729,55,BlockedShot,0.9763500175476074,0.383319994354248,0.0623520985245704,Antoine Griezmann,a,2270,FromCorner,2019,LeftFoot,12206,Espanyol,Barcelona,2,2,2020-01-04 20:00:00,,None
+355425,66,SavedShot,1.0212000350952148,0.5231799774169922,0.0385777987539768,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12214,Barcelona,Granada,1,0,2020-01-19 20:00:00,Ivan Rakitic,Pass
+355428,83,MissedShots,1.049950035095215,0.4972799774169922,0.0979923978447914,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12214,Barcelona,Granada,1,0,2020-01-19 20:00:00,Riqui Puig,Pass
+355430,87,SavedShot,0.8693999824523925,0.19684000282287592,0.0233257003128528,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12214,Barcelona,Granada,1,0,2020-01-19 20:00:00,Arthur,Pass
+355431,89,BlockedShot,0.9752000350952148,0.5017200225830079,0.0459408015012741,Antoine Griezmann,h,2270,OpenPlay,2019,RightFoot,12214,Barcelona,Granada,1,0,2020-01-19 20:00:00,Sergio Busquets,Pass
+357419,16,MissedShots,1.0453500175476074,0.2597399887084961,0.2878269851207733,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12233,Barcelona,Levante,2,1,2020-02-02 20:00:00,Jordi Alba,Chipped
+357426,44,MissedShots,1.1086000175476074,0.33743998870849606,0.7072499990463257,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12233,Barcelona,Levante,2,1,2020-02-02 20:00:00,Nélson Semedo,Pass
+357427,49,BlockedShot,1.0545499649047851,0.4351199943542481,0.1091379970312118,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12233,Barcelona,Levante,2,1,2020-02-02 20:00:00,,None
+358987,33,Goal,1.0188999824523925,0.33596001129150393,0.4225499927997589,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12254,Barcelona,Getafe,2,1,2020-02-15 15:00:00,Lionel Messi,Throughball
+358997,73,MissedShots,1.0131499824523924,0.3877600112915039,0.3811019957065582,Antoine Griezmann,h,2270,OpenPlay,2019,RightFoot,12254,Barcelona,Getafe,2,1,2020-02-15 15:00:00,,Rebound
+358998,76,MissedShots,1.0476499824523924,0.2723199943542481,0.1320730000734329,Antoine Griezmann,h,2270,OpenPlay,2019,RightFoot,12254,Barcelona,Getafe,2,1,2020-02-15 15:00:00,Lionel Messi,Throughball
+359887,18,BlockedShot,1.0418999824523922,0.2826800056457519,0.3624719977378845,Antoine Griezmann,h,2270,OpenPlay,2019,RightFoot,12265,Barcelona,Eibar,5,0,2020-02-22 15:00:00,Nélson Semedo,Pass
+359893,42,SavedShot,1.0234999999999999,0.4395600112915039,0.1323840022087097,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12265,Barcelona,Eibar,5,0,2020-02-22 15:00:00,Arturo Vidal,Pass
+361462,20,MissedShots,1.0188999824523925,0.3922,0.1183860003948211,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12279,Real Madrid,Barcelona,2,0,2020-03-01 20:00:00,Jordi Alba,Pass
+361467,36,BlockedShot,0.9337999649047851,0.39293998870849606,0.0602543987333774,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12279,Real Madrid,Barcelona,2,0,2020-03-01 20:00:00,Arturo Vidal,Pass
+361808,32,MissedShots,0.9993500175476074,0.386280005645752,0.1083199977874755,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12285,Barcelona,Real Sociedad,1,0,2020-03-07 17:30:00,Frenkie de Jong,Pass
+364663,29,MissedShots,1.0453500175476074,0.383319994354248,0.0753879025578498,Antoine Griezmann,h,2270,OpenPlay,2019,Head,12307,Barcelona,Leganes,2,0,2020-06-16 20:00:00,Ivan Rakitic,Chipped
+364672,78,MissedShots,0.9878500175476074,0.38998000564575197,0.0380748994648456,Antoine Griezmann,h,2270,OpenPlay,2019,Head,12307,Barcelona,Leganes,2,0,2020-06-16 20:00:00,Arturo Vidal,Cross
+366275,53,SavedShot,1.0154500350952147,0.4839600112915039,0.0556505993008613,Antoine Griezmann,h,2270,OpenPlay,2019,LeftFoot,12324,Barcelona,Athletic Club,1,0,2020-06-23 20:00:00,Lionel Messi,Chipped
+369279,5,BlockedShot,0.9682999649047851,0.4247600112915039,0.0928919985890388,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12361,Villarreal,Barcelona,1,4,2020-07-05 20:00:00,Luis Suárez,Pass
+369291,44,Goal,0.9407000350952147,0.45436001129150394,0.0549325011670589,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12361,Villarreal,Barcelona,1,4,2020-07-05 20:00:00,Lionel Messi,Pass
+370026,53,MissedShots,1.0016499824523926,0.34040000000000004,0.0388734005391597,Antoine Griezmann,h,2270,OpenPlay,2019,Head,12364,Barcelona,Espanyol,1,0,2020-07-08 20:00:00,Sergi Roberto,Cross
+370654,18,MissedShots,1.0591499824523924,0.39738000564575193,0.514627993106842,Antoine Griezmann,a,2270,OpenPlay,2019,RightFoot,12380,Real Valladolid,Barcelona,0,1,2020-07-11 17:30:00,Nélson Semedo,Pass
+379841,55,BlockedShot,1.014299964904785,0.4625,0.1187250018119812,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Jordi Alba,Pass
+380249,7,MissedShots,0.9533500175476074,0.2627,0.0441449992358684,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,14165,Celta Vigo,Barcelona,0,3,2020-10-01 19:30:00,,None
+381529,20,MissedShots,1.0108500175476074,0.5172600112915039,0.0409413017332553,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14817,Barcelona,Sevilla,1,1,2020-10-04 19:00:00,Anssumane Fati,Pass
+381535,48,SavedShot,1.1097499999999998,0.2627,0.0547497011721134,Antoine Griezmann,h,2270,OpenPlay,2020,RightFoot,14817,Barcelona,Sevilla,1,1,2020-10-04 19:00:00,Ronald Araújo,Chipped
+382207,29,MissedShots,1.0131499824523924,0.3048800056457519,0.3177439868450165,Antoine Griezmann,a,2270,OpenPlay,2020,RightFoot,14830,Getafe,Barcelona,1,0,2020-10-17 19:00:00,Pedri,Pass
+384816,19,MissedShots,1.0027999649047852,0.43438000564575197,0.1003049984574318,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,14845,Alaves,Barcelona,1,1,2020-10-31 20:00:00,Anssumane Fati,Pass
+384827,62,Goal,1.0269500350952148,0.4477,0.3569140136241913,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,14845,Alaves,Barcelona,1,1,2020-10-31 20:00:00,,TakeOn
+386024,4,MissedShots,0.9855499649047851,0.32263998870849603,0.3588519990444183,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14856,Barcelona,Real Betis,5,2,2020-11-07 15:15:00,Anssumane Fati,Pass
+386029,10,MissedShots,0.9855499649047851,0.4410399887084961,0.0964647009968757,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14856,Barcelona,Real Betis,5,2,2020-11-07 15:15:00,Sergio Busquets,Pass
+386033,25,ShotOnPost,1.0027999649047852,0.4255,0.1145820021629333,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14856,Barcelona,Real Betis,5,2,2020-11-07 15:15:00,Pedri,Pass
+386034,32,SavedShot,1.01775,0.37,0.7432780265808105,Antoine Griezmann,h,2270,Penalty,2020,LeftFoot,14856,Barcelona,Real Betis,5,2,2020-11-07 15:15:00,,Standard
+386038,48,Goal,1.049950035095215,0.36556001129150384,0.3664610087871551,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14856,Barcelona,Real Betis,5,2,2020-11-07 15:15:00,Jordi Alba,Cross
+387611,2,MissedShots,1.106299964904785,0.3248600112915039,0.1079410016536712,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,14867,Atletico Madrid,Barcelona,1,0,2020-11-21 20:00:00,Ousmane Dembélé,Cross
+387627,81,SavedShot,1.0051000175476072,0.33596001129150393,0.0180501993745565,Antoine Griezmann,a,2270,OpenPlay,2020,Head,14867,Atletico Madrid,Barcelona,1,0,2020-11-21 20:00:00,Lionel Messi,Aerial
+389201,14,SavedShot,0.9177000350952148,0.5786799774169922,0.0160472001880407,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14875,Barcelona,Osasuna,4,0,2020-11-29 13:00:00,Lionel Messi,Pass
+389202,15,MissedShots,1.0418999824523922,0.5032,0.0604369007050991,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14875,Barcelona,Osasuna,4,0,2020-11-29 13:00:00,Philippe Coutinho,Chipped
+389205,22,SavedShot,1.0027999649047852,0.38998000564575197,0.4066280126571655,Antoine Griezmann,h,2270,OpenPlay,2020,RightFoot,14875,Barcelona,Osasuna,4,0,2020-11-29 13:00:00,,None
+389210,41,Goal,0.9073500175476074,0.4662,0.0434192009270191,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14875,Barcelona,Osasuna,4,0,2020-11-29 13:00:00,,None
+390500,86,BlockedShot,0.9809500350952147,0.26936001129150383,0.0614130012691021,Antoine Griezmann,a,2270,OpenPlay,2020,RightFoot,14885,Cadiz,Barcelona,2,1,2020-12-05 20:00:00,Trincão,Pass
+390501,88,SavedShot,1.0844500350952146,0.5039399887084961,0.0528715997934341,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,14885,Cadiz,Barcelona,2,1,2020-12-05 20:00:00,Ousmane Dembélé,Pass
+392492,19,SavedShot,0.997049964904785,0.23828000564575194,0.0484509989619255,Antoine Griezmann,h,2270,OpenPlay,2020,RightFoot,14898,Barcelona,Levante,1,0,2020-12-13 20:00:00,Frenkie de Jong,Pass
+392493,21,SavedShot,1.0476499824523924,0.3182,0.2974759936332702,Antoine Griezmann,h,2270,SetPiece,2020,Head,14898,Barcelona,Levante,1,0,2020-12-13 20:00:00,Lionel Messi,Chipped
+392501,39,SavedShot,1.0453500175476074,0.30783998870849605,0.0710150972008705,Antoine Griezmann,h,2270,SetPiece,2020,RightFoot,14898,Barcelona,Levante,1,0,2020-12-13 20:00:00,Lionel Messi,Cross
+392508,61,MissedShots,0.8739999999999999,0.29156001129150394,0.0228062998503446,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14898,Barcelona,Levante,1,0,2020-12-13 20:00:00,,Dispossessed
+393511,7,MissedShots,1.0672000350952149,0.202019994354248,0.020865399390459,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14905,Barcelona,Real Sociedad,2,1,2020-12-16 20:00:00,Jordi Alba,Cross
+393520,36,ShotOnPost,1.1028500175476075,0.2641800056457519,0.3351059854030609,Antoine Griezmann,h,2270,OpenPlay,2020,RightFoot,14905,Barcelona,Real Sociedad,2,1,2020-12-16 20:00:00,,BallRecovery
+393524,54,MissedShots,1.1166499824523926,0.367039988708496,0.7257450222969055,Antoine Griezmann,h,2270,OpenPlay,2020,RightFoot,14905,Barcelona,Real Sociedad,2,1,2020-12-16 20:00:00,,None
+393525,55,SavedShot,1.081,0.47803998870849607,0.0941478013992309,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14905,Barcelona,Real Sociedad,2,1,2020-12-16 20:00:00,Frenkie de Jong,Pass
+394009,32,SavedShot,1.025799964904785,0.23161999435424807,0.0721594989299774,Antoine Griezmann,h,2270,OpenPlay,2020,RightFoot,14909,Barcelona,Valencia,2,2,2020-12-19 15:15:00,Pedri,Pass
+395964,41,MissedShots,0.9349500350952147,0.4188399887084961,0.0553654991090297,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14928,Barcelona,Eibar,1,1,2020-12-29 18:00:00,Júnior Firpo,Pass
+395969,52,SavedShot,0.9004500350952148,0.27306001129150387,0.0280332006514072,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14928,Barcelona,Eibar,1,1,2020-12-29 18:00:00,Ousmane Dembélé,Pass
+397643,39,SavedShot,0.9982000350952148,0.4884,0.0861068964004516,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,14947,Athletic Club,Barcelona,2,3,2021-01-06 20:00:00,Ousmane Dembélé,Pass
+397650,76,MissedShots,0.8406499824523925,0.5823799774169922,0.0128720002248883,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,14947,Athletic Club,Barcelona,2,3,2021-01-06 20:00:00,,BallTouch
+397651,80,SavedShot,1.0005,0.36556001129150384,0.1350879967212677,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,14947,Athletic Club,Barcelona,2,3,2021-01-06 20:00:00,Jordi Alba,Pass
+397934,11,Goal,1.0511000175476073,0.3996,0.4845519959926605,Antoine Griezmann,a,2270,FromCorner,2020,LeftFoot,14951,Granada,Barcelona,0,4,2021-01-09 17:30:00,,None
+397938,29,BlockedShot,0.9774999999999999,0.4588,0.0679816007614135,Antoine Griezmann,a,2270,OpenPlay,2020,RightFoot,14951,Granada,Barcelona,0,4,2021-01-09 17:30:00,Frenkie de Jong,Pass
+397946,62,Goal,1.0717999649047854,0.242719994354248,0.0959189981222152,Antoine Griezmann,a,2270,OpenPlay,2020,RightFoot,14951,Granada,Barcelona,0,4,2021-01-09 17:30:00,Ousmane Dembélé,Chipped
+397948,74,MissedShots,0.9728999824523925,0.287119994354248,0.0671624988317489,Antoine Griezmann,a,2270,OpenPlay,2020,RightFoot,14951,Granada,Barcelona,0,4,2021-01-09 17:30:00,,None
+400930,11,SavedShot,1.0016499824523926,0.3344800056457519,0.0453680008649826,Antoine Griezmann,a,2270,SetPiece,2020,Head,14972,Elche,Barcelona,0,2,2021-01-24 15:15:00,Ousmane Dembélé,Cross
+400932,17,MissedShots,0.9487499999999999,0.4255,0.043800700455904,Antoine Griezmann,a,2270,SetPiece,2020,RightFoot,14972,Elche,Barcelona,0,2,2021-01-24 15:15:00,Martin Braithwaite,Pass
+400942,61,MissedShots,0.9303500175476074,0.37443998870849604,0.0686381012201309,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,14972,Elche,Barcelona,0,2,2021-01-24 15:15:00,Pedri,Pass
+402361,6,SavedShot,0.9993500175476074,0.5231799774169922,0.0374629981815815,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Lionel Messi,Pass
+402373,58,MissedShots,1.0775499649047853,0.386280005645752,0.1250510066747665,Antoine Griezmann,h,2270,FromCorner,2020,Head,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Ousmane Dembélé,Cross
+402375,73,Goal,1.06375,0.3707399887084961,0.5619140267372131,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Óscar Mingueza,Pass
+403971,48,MissedShots,1.1051499824523925,0.44326001129150394,0.0652908980846405,Antoine Griezmann,a,2270,FromCorner,2020,Head,14991,Real Betis,Barcelona,2,3,2021-02-07 20:00:00,Ousmane Dembélé,Cross
+403972,52,BlockedShot,1.0741000175476074,0.4099600112915039,0.0901509970426559,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,14991,Real Betis,Barcelona,2,3,2021-02-07 20:00:00,Jordi Alba,Cross
+404532,1,BlockedShot,1.0281000175476074,0.386280005645752,0.1007530018687248,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14998,Barcelona,Alaves,5,1,2021-02-13 20:00:00,Trincão,BallTouch
+404549,65,MissedShots,1.049950035095215,0.4351199943542481,0.4265269935131073,Antoine Griezmann,h,2270,OpenPlay,2020,RightFoot,14998,Barcelona,Alaves,5,1,2021-02-13 20:00:00,Júnior Firpo,Pass
+405882,21,BlockedShot,1.0027999649047852,0.468419994354248,0.0924040973186492,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,15010,Barcelona,Cadiz,1,1,2021-02-21 13:00:00,Lionel Messi,Pass
+406393,81,MissedShots,1.100549964904785,0.2597399887084961,0.2440190017223358,Antoine Griezmann,h,2270,OpenPlay,2020,RightFoot,14141,Barcelona,Elche,3,0,2021-02-24 20:00:00,Ousmane Dembélé,Pass
+408745,25,MissedShots,1.0269500350952148,0.372219994354248,0.0453087985515594,Antoine Griezmann,a,2270,OpenPlay,2020,Head,15033,Osasuna,Barcelona,0,2,2021-03-06 20:00:00,Lionel Messi,Aerial
+410806,34,Goal,0.8751499824523925,0.3811,0.034553900361061,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,15039,Barcelona,SD Huesca,4,1,2021-03-15 20:00:00,Pedri,Pass
+412067,36,Goal,1.0729500350952146,0.383319994354248,0.5789059996604919,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,,Rebound
+413440,46,BlockedShot,0.9395499649047852,0.5231799774169922,0.0258162003010511,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,15059,Barcelona,Real Valladolid,1,0,2021-04-05 19:00:00,Frenkie de Jong,Pass
+413448,58,MissedShots,1.031549964904785,0.43289999999999995,0.2752749919891357,Antoine Griezmann,h,2270,OpenPlay,2020,Head,15059,Barcelona,Real Valladolid,1,0,2021-04-05 19:00:00,,Rebound
+416927,92,Goal,1.01775,0.37,0.743149995803833,Antoine Griezmann,h,2270,Penalty,2020,LeftFoot,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,,Standard
+417902,5,BlockedShot,1.0166000175476073,0.40181999435424803,0.3301889896392822,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,15096,Villarreal,Barcelona,1,2,2021-04-25 14:15:00,Frenkie de Jong,LayOff
+417911,27,Goal,1.0660499649047852,0.2368,0.2233940064907074,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,15096,Villarreal,Barcelona,1,2,2021-04-25 14:15:00,Óscar Mingueza,Chipped
+417912,34,Goal,1.0108500175476074,0.4136600112915039,0.3949460089206695,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,15096,Villarreal,Barcelona,1,2,2021-04-25 14:15:00,,BallTouch
+417913,43,SavedShot,1.05225,0.5113399887084961,0.0769399031996727,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,15096,Villarreal,Barcelona,1,2,2021-04-25 14:15:00,Frenkie de Jong,Pass
+417915,55,MissedShots,1.0442000350952148,0.3566800056457519,0.1133129969239234,Antoine Griezmann,a,2270,OpenPlay,2020,RightFoot,15096,Villarreal,Barcelona,1,2,2021-04-25 14:15:00,Sergi Roberto,Cross
+418342,18,SavedShot,0.9452999649047851,0.3470600112915038,0.0677810981869697,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,15101,Barcelona,Granada,1,2,2021-04-29 17:00:00,Lionel Messi,Pass
+418350,46,MissedShots,1.0062499999999999,0.42771999435424807,0.114826001226902,Antoine Griezmann,h,2270,OpenPlay,2020,RightFoot,15101,Barcelona,Granada,1,2,2021-04-29 17:00:00,Ilaix Moriba,Pass
+419361,9,MissedShots,0.9993500175476074,0.3122800056457519,0.0359635986387729,Antoine Griezmann,a,2270,OpenPlay,2020,Head,15109,Valencia,Barcelona,2,3,2021-05-02 19:00:00,Clement Lenglet,Chipped
+419369,53,BlockedShot,0.9901499824523925,0.457319994354248,0.0693745017051696,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,15109,Valencia,Barcelona,2,3,2021-05-02 19:00:00,Jordi Alba,Pass
+419374,62,Goal,1.1292999649047852,0.3936800056457519,0.9142659902572632,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,15109,Valencia,Barcelona,2,3,2021-05-02 19:00:00,,Rebound
+420105,28,SavedShot,0.9131000175476074,0.5505600112915039,0.0202051997184753,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,15120,Barcelona,Atletico Madrid,0,0,2021-05-08 14:15:00,Jordi Alba,Chipped
+420121,73,SavedShot,1.07525,0.4699,0.1008599996566772,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,15120,Barcelona,Atletico Madrid,0,0,2021-05-08 14:15:00,Jordi Alba,Pass
+422597,9,SavedShot,1.1017000350952146,0.45213998870849614,0.1068760007619857,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,15141,Barcelona,Celta Vigo,1,2,2021-05-16 16:30:00,Lionel Messi,Pass
+422602,30,MissedShots,1.0327000350952147,0.4232800056457519,0.0196649003773927,Antoine Griezmann,h,2270,FromCorner,2020,Head,15141,Barcelona,Celta Vigo,1,2,2021-05-16 16:30:00,Ilaix Moriba,Aerial
+423726,80,Goal,1.0775499649047853,0.47803998870849607,0.0350065007805824,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,15149,Eibar,Barcelona,0,1,2021-05-22 16:00:00,,Aerial
+426560,1,MissedShots,0.8602000350952148,0.2900800056457519,0.0236122999340295,Antoine Griezmann,h,2270,OpenPlay,2021,LeftFoot,17142,Barcelona,Real Sociedad,4,2,2021-08-15 18:00:00,Frenkie de Jong,Pass
+426561,9,MissedShots,1.0407499999999998,0.37296001129150386,0.0747409984469413,Antoine Griezmann,h,2270,FromCorner,2021,LeftFoot,17142,Barcelona,Real Sociedad,4,2,2021-08-15 18:00:00,Jordi Alba,Cross
+426563,11,ShotOnPost,1.1086000175476074,0.31006001129150385,0.105953000485897,Antoine Griezmann,h,2270,FromCorner,2021,Head,17142,Barcelona,Real Sociedad,4,2,2021-08-15 18:00:00,Memphis Depay,Cross
+427445,73,MissedShots,1.0971000175476076,0.242719994354248,0.0551996007561683,Antoine Griezmann,a,2270,OpenPlay,2021,RightFoot,17150,Athletic Club,Barcelona,1,1,2021-08-21 20:00:00,,None
+430277,16,MissedShots,1.058,0.38480000000000003,0.0660355016589164,Antoine Griezmann,a,2270,OpenPlay,2021,Head,17170,Espanyol,Atletico Madrid,1,2,2021-09-12 12:00:00,,BallTouch
+430281,31,MissedShots,0.8855,0.32116001129150384,0.0274445991963148,Antoine Griezmann,a,2270,OpenPlay,2021,LeftFoot,17170,Espanyol,Atletico Madrid,1,2,2021-09-12 12:00:00,Koke,Pass
+431416,0,MissedShots,1.1017000350952146,0.2804600112915039,0.0662254989147186,Antoine Griezmann,h,2270,OpenPlay,2021,LeftFoot,17177,Atletico Madrid,Athletic Club,0,0,2021-09-18 14:15:00,Marcos Llorente,Cross
+431418,14,BlockedShot,1.0844500350952146,0.3256,0.5526890158653259,Antoine Griezmann,h,2270,OpenPlay,2021,LeftFoot,17177,Atletico Madrid,Athletic Club,0,0,2021-09-18 14:15:00,Marcos Llorente,Pass
+432403,50,MissedShots,0.8659500350952147,0.4980200225830078,0.0115131000056862,Antoine Griezmann,a,2270,SetPiece,2021,LeftFoot,17187,Getafe,Atletico Madrid,1,2,2021-09-21 17:30:00,,None
+432404,55,MissedShots,0.8406499824523925,0.2789800056457519,0.0180959999561309,Antoine Griezmann,a,2270,OpenPlay,2021,LeftFoot,17187,Getafe,Atletico Madrid,1,2,2021-09-21 17:30:00,Kieran Trippier,Pass
+438698,2,SavedShot,0.8590499649047851,0.37888000564575197,0.0225661993026733,Antoine Griezmann,h,2270,OpenPlay,2021,LeftFoot,17235,Atletico Madrid,Real Sociedad,2,2,2021-10-24 19:00:00,Luis Suárez,Pass
+438709,33,BlockedShot,1.008549964904785,0.21459999999999999,0.0398291982710361,Antoine Griezmann,h,2270,OpenPlay,2021,LeftFoot,17235,Atletico Madrid,Real Sociedad,2,2,2021-10-24 19:00:00,,None
+438713,53,MissedShots,1.0591499824523924,0.4373399887084961,0.06805270165205,Antoine Griezmann,h,2270,OpenPlay,2021,RightFoot,17235,Atletico Madrid,Real Sociedad,2,2,2021-10-24 19:00:00,João Félix,Cross
+439256,11,Goal,1.1201000175476075,0.3936800056457519,0.5488029718399048,Antoine Griezmann,a,2270,FromCorner,2021,Head,17242,Levante,Atletico Madrid,2,2,2021-10-28 19:30:00,Felipe,HeadPass
+440342,9,SavedShot,1.1247000350952145,0.4884,0.3180670142173767,Antoine Griezmann,h,2270,OpenPlay,2021,LeftFoot,17251,Atletico Madrid,Real Betis,3,0,2021-10-31 15:15:00,Yannick Carrasco,Throughball
+440346,17,SavedShot,1.0108500175476074,0.2560399887084961,0.0868730992078781,Antoine Griezmann,h,2270,OpenPlay,2021,RightFoot,17251,Atletico Madrid,Real Betis,3,0,2021-10-31 15:15:00,Ángel Correa,Pass
+440351,30,BlockedShot,1.02925,0.461019994354248,0.0285909995436668,Antoine Griezmann,h,2270,FromCorner,2021,LeftFoot,17251,Atletico Madrid,Real Betis,3,0,2021-10-31 15:15:00,Giménez,Aerial
+441769,13,MissedShots,1.0097000350952148,0.47433998870849603,0.055629301816225,Antoine Griezmann,a,2270,OpenPlay,2021,LeftFoot,17264,Valencia,Atletico Madrid,3,3,2021-11-07 15:15:00,Luis Suárez,HeadPass
+441777,46,MissedShots,1.0763999824523924,0.3448399887084961,0.4505940079689026,Antoine Griezmann,a,2270,OpenPlay,2021,Head,17264,Valencia,Atletico Madrid,3,3,2021-11-07 15:15:00,Ángel Correa,Chipped
+441780,57,Goal,0.8947000350952148,0.43289999999999995,0.0646317973732948,Antoine Griezmann,a,2270,OpenPlay,2021,LeftFoot,17264,Valencia,Atletico Madrid,3,3,2021-11-07 15:15:00,,BallRecovery
+442790,15,MissedShots,1.0706499824523923,0.43068000564575193,0.1172500029206276,Antoine Griezmann,h,2270,OpenPlay,2021,Head,17266,Atletico Madrid,Osasuna,1,0,2021-11-20 17:30:00,Yannick Carrasco,Cross
+442792,19,MissedShots,0.979799964904785,0.4758200225830078,0.0603659003973007,Antoine Griezmann,h,2270,OpenPlay,2021,LeftFoot,17266,Atletico Madrid,Osasuna,1,0,2021-11-20 17:30:00,Yannick Carrasco,Pass
+442794,23,BlockedShot,1.0568500175476074,0.43216001129150394,0.4217349886894226,Antoine Griezmann,h,2270,OpenPlay,2021,LeftFoot,17266,Atletico Madrid,Osasuna,1,0,2021-11-20 17:30:00,Yannick Carrasco,Pass
+444895,13,BlockedShot,0.8383500175476074,0.4107,0.0190501008182764,Antoine Griezmann,a,2270,OpenPlay,2021,LeftFoot,17280,Cadiz,Atletico Madrid,1,4,2021-11-28 17:30:00,Thomas Lemar,Pass
+444909,69,Goal,1.0027999649047852,0.3581600112915039,0.090082898736,Antoine Griezmann,a,2270,OpenPlay,2021,RightFoot,17280,Cadiz,Atletico Madrid,1,4,2021-11-28 17:30:00,Marcos Llorente,Cross
+444913,75,BlockedShot,0.9763500175476074,0.3707399887084961,0.0988835990428924,Antoine Griezmann,a,2270,OpenPlay,2021,LeftFoot,17280,Cadiz,Atletico Madrid,1,4,2021-11-28 17:30:00,Marcos Llorente,Cross
+446327,12,SavedShot,1.0418999824523922,0.3011800056457519,0.0321689993143081,Antoine Griezmann,h,2270,OpenPlay,2021,Head,17286,Atletico Madrid,Mallorca,1,2,2021-12-04 17:30:00,Marcos Llorente,Aerial
+446330,26,SavedShot,1.0545499649047851,0.3137600112915039,0.0943427979946136,Antoine Griezmann,h,2270,OpenPlay,2021,RightFoot,17286,Atletico Madrid,Mallorca,1,2,2021-12-04 17:30:00,Marcos Llorente,Cross
+446337,56,MissedShots,0.9855499649047851,0.46693998870849607,0.0134022003039717,Antoine Griezmann,h,2270,OpenPlay,2021,Head,17286,Atletico Madrid,Mallorca,1,2,2021-12-04 17:30:00,Renan Lodi,Cross
+448672,34,SavedShot,0.9372499999999999,0.209419994354248,0.0789029970765113,Antoine Griezmann,a,2270,DirectFreekick,2021,LeftFoot,17303,Real Madrid,Atletico Madrid,2,0,2021-12-12 20:00:00,,Standard
+460099,80,MissedShots,0.8578999824523925,0.41588000564575195,0.0325407981872558,Antoine Griezmann,h,2270,OpenPlay,2021,LeftFoot,17386,Atletico Madrid,Celta Vigo,2,0,2022-02-26 20:00:00,Luis Suárez,LayOff
+460100,83,MissedShots,0.8556000175476074,0.28933998870849603,0.0607750006020069,Antoine Griezmann,h,2270,DirectFreekick,2021,LeftFoot,17386,Atletico Madrid,Celta Vigo,2,0,2022-02-26 20:00:00,,Standard
+461932,79,SavedShot,1.0269500350952148,0.41440000000000005,0.5617979764938354,Antoine Griezmann,a,2270,OpenPlay,2021,LeftFoot,17398,Real Betis,Atletico Madrid,1,3,2022-03-06 20:00:00,Yannick Carrasco,Pass
+464215,1,SavedShot,1.0533999824523923,0.5105999999999999,0.0571924000978469,Antoine Griezmann,a,2270,OpenPlay,2021,LeftFoot,17424,Rayo Vallecano,Atletico Madrid,0,1,2022-03-19 20:00:00,Koke,Chipped
+464216,8,MissedShots,0.8866499824523925,0.17759999999999998,0.0112215001136064,Antoine Griezmann,a,2270,OpenPlay,2021,LeftFoot,17424,Rayo Vallecano,Atletico Madrid,0,1,2022-03-19 20:00:00,Rodrigo de Paul,Chipped
+464217,11,MissedShots,1.0775499649047853,0.3737,0.446956992149353,Antoine Griezmann,a,2270,SetPiece,2021,LeftFoot,17424,Rayo Vallecano,Atletico Madrid,0,1,2022-03-19 20:00:00,João Félix,Aerial
+464229,57,SavedShot,1.0672000350952149,0.2560399887084961,0.2854680120944977,Antoine Griezmann,a,2270,OpenPlay,2021,LeftFoot,17424,Rayo Vallecano,Atletico Madrid,0,1,2022-03-19 20:00:00,Rodrigo de Paul,Pass
+466770,3,BlockedShot,0.9924500350952148,0.4995,0.0516765005886554,Antoine Griezmann,a,2270,OpenPlay,2021,RightFoot,17436,Mallorca,Atletico Madrid,1,0,2022-04-09 14:15:00,Yannick Carrasco,Pass
+466772,13,MissedShots,1.094799964904785,0.5091200225830078,0.0474257990717887,Antoine Griezmann,a,2270,OpenPlay,2021,LeftFoot,17436,Mallorca,Atletico Madrid,1,0,2022-04-09 14:15:00,Koke,Pass
+469311,48,MissedShots,0.9315,0.5046799774169922,0.0269632991403341,Antoine Griezmann,h,2270,OpenPlay,2021,LeftFoot,17456,Atletico Madrid,Granada,0,0,2022-04-20 17:00:00,Ángel Correa,Pass
+471909,44,SavedShot,1.06375,0.3966399887084961,0.0511564016342163,Antoine Griezmann,a,2270,OpenPlay,2021,Head,17467,Athletic Club,Atletico Madrid,2,0,2022-04-30 19:00:00,Marcos Llorente,Aerial
+471912,50,ShotOnPost,0.9372499999999999,0.21534000282287594,0.0821318998932838,Antoine Griezmann,a,2270,DirectFreekick,2021,LeftFoot,17467,Athletic Club,Atletico Madrid,2,0,2022-04-30 19:00:00,,Standard
+474653,56,MissedShots,0.7992499999999999,0.37888000564575197,0.0155403995886445,Antoine Griezmann,h,2270,OpenPlay,2021,LeftFoot,17477,Atletico Madrid,Real Madrid,1,0,2022-05-08 19:00:00,Yannick Carrasco,Pass
+474662,72,MissedShots,1.0005,0.301919994354248,0.0738992989063263,Antoine Griezmann,h,2270,SetPiece,2021,LeftFoot,17477,Atletico Madrid,Real Madrid,1,0,2022-05-08 19:00:00,Giménez,Rebound
+474664,75,MissedShots,1.0166000175476073,0.4121800056457519,0.1234650015830993,Antoine Griezmann,h,2270,OpenPlay,2021,LeftFoot,17477,Atletico Madrid,Real Madrid,1,0,2022-05-08 19:00:00,Yannick Carrasco,Pass
+476595,11,BlockedShot,1.0246499824523925,0.21904000282287595,0.0434737987816333,Antoine Griezmann,h,2270,OpenPlay,2021,LeftFoot,17497,Atletico Madrid,Sevilla,1,1,2022-05-15 17:30:00,Koke,Pass
+478265,55,SavedShot,1.0327000350952147,0.305619994354248,0.3926419913768768,Antoine Griezmann,a,2270,OpenPlay,2021,RightFoot,17511,Real Sociedad,Atletico Madrid,1,2,2022-05-22 20:00:00,Yannick Carrasco,Pass
+481385,74,Goal,0.8889500350952148,0.37,0.1292780041694641,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,18970,Getafe,Atletico Madrid,0,3,2022-08-15 17:30:00,João Félix,Throughball
+481391,92,SavedShot,0.9004500350952148,0.27676001129150385,0.0869001001119613,Antoine Griezmann,a,2270,DirectFreekick,2022,LeftFoot,18970,Getafe,Atletico Madrid,0,3,2022-08-15 17:30:00,,Standard
+482752,66,MissedShots,0.8567499999999999,0.35371999435424806,0.039462499320507,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,18978,Atletico Madrid,Villarreal,0,2,2022-08-21 17:30:00,Rodrigo de Paul,Pass
+484799,65,Goal,0.9429999999999998,0.2701,0.0422144010663032,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,18991,Valencia,Atletico Madrid,0,1,2022-08-29 20:00:00,Thomas Lemar,Pass
+484806,89,MissedShots,1.035,0.2826800056457519,0.1076719984412193,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,18991,Valencia,Atletico Madrid,0,1,2022-08-29 20:00:00,,Rebound
+484805,89,SavedShot,1.0027999649047852,0.296,0.2667959928512573,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,18991,Valencia,Atletico Madrid,0,1,2022-08-29 20:00:00,Yannick Carrasco,BallRecovery
+486171,65,SavedShot,0.8578999824523925,0.26491999435424807,0.0194285996258258,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,18994,Real Sociedad,Atletico Madrid,1,1,2022-09-03 16:30:00,Marcos Llorente,Pass
+486176,97,BlockedShot,0.8578999824523925,0.29156001129150394,0.0624382011592388,Antoine Griezmann,a,2270,DirectFreekick,2022,LeftFoot,18994,Real Sociedad,Atletico Madrid,1,1,2022-09-03 16:30:00,,Standard
+489680,24,SavedShot,0.9234500350952148,0.34040000000000004,0.0653707981109619,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19021,Atletico Madrid,Real Madrid,1,2,2022-09-18 19:00:00,,TakeOn
+490363,64,BlockedShot,1.035,0.48026001129150386,0.1101220026612281,Antoine Griezmann,a,2270,OpenPlay,2022,RightFoot,19026,Sevilla,Atletico Madrid,0,2,2022-10-01 16:30:00,Yannick Carrasco,Pass
+490367,71,SavedShot,1.0648999824523924,0.24863998870849607,0.2629959881305694,Antoine Griezmann,a,2270,OpenPlay,2022,RightFoot,19026,Sevilla,Atletico Madrid,0,2,2022-10-01 16:30:00,Marcos Llorente,Pass
+490369,74,MissedShots,0.9982000350952148,0.41958000564575193,0.0918819978833198,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19026,Sevilla,Atletico Madrid,0,2,2022-10-01 16:30:00,,None
+490376,91,SavedShot,1.058,0.24863998870849607,0.0887722969055175,Antoine Griezmann,a,2270,OpenPlay,2022,RightFoot,19026,Sevilla,Atletico Madrid,0,2,2022-10-01 16:30:00,Ángel Correa,Pass
+491656,42,BlockedShot,1.0775499649047853,0.47803998870849607,0.0964924991130828,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19032,Atletico Madrid,Girona,2,1,2022-10-08 14:15:00,Yannick Carrasco,Pass
+493343,46,Goal,1.0027999649047852,0.3219,0.367944985628128,Antoine Griezmann,a,2270,OpenPlay,2022,RightFoot,19042,Athletic Club,Atletico Madrid,0,1,2022-10-15 19:00:00,Álvaro Morata,Pass
+493345,60,MissedShots,0.9982000350952148,0.444,0.0606032013893127,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19042,Athletic Club,Atletico Madrid,0,1,2022-10-15 19:00:00,Nahuel Molina,Cross
+494274,79,MissedShots,0.8728500175476073,0.23384000282287598,0.0272557996213436,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19052,Atletico Madrid,Rayo Vallecano,1,1,2022-10-18 19:00:00,Nahuel Molina,Pass
+495707,48,MissedShots,0.8153500175476074,0.07917999858856196,0.0085225701332092,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19066,Real Betis,Atletico Madrid,1,2,2022-10-23 14:15:00,,BallRecovery
+495710,53,Goal,1.140799964904785,0.002220000088214808,0.0133881997317075,Antoine Griezmann,a,2270,FromCorner,2022,LeftFoot,19066,Real Betis,Atletico Madrid,1,2,2022-10-23 14:15:00,,CornerAwarded
+495713,70,Goal,1.1039999999999999,0.26491999435424807,0.1002359986305236,Antoine Griezmann,a,2270,OpenPlay,2022,RightFoot,19066,Real Betis,Atletico Madrid,1,2,2022-10-23 14:15:00,Matheus Cunha,Pass
+498452,2,MissedShots,0.8556000175476074,0.2804600112915039,0.0223993007093668,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19082,Atletico Madrid,Espanyol,1,1,2022-11-06 13:00:00,Rodrigo de Paul,Pass
+498454,17,SavedShot,0.9613999824523926,0.5305799774169921,0.0287881009280681,Antoine Griezmann,h,2270,OpenPlay,2022,RightFoot,19082,Atletico Madrid,Espanyol,1,1,2022-11-06 13:00:00,Rodrigo de Paul,TakeOn
+498459,42,SavedShot,1.0062499999999999,0.29451999435424797,0.071239598095417,Antoine Griezmann,h,2270,OpenPlay,2022,RightFoot,19082,Atletico Madrid,Espanyol,1,1,2022-11-06 13:00:00,,None
+498473,68,MissedShots,0.9728999824523925,0.3811,0.0584550984203815,Antoine Griezmann,h,2270,OpenPlay,2022,RightFoot,19082,Atletico Madrid,Espanyol,1,1,2022-11-06 13:00:00,Nahuel Molina,Chipped
+499575,8,BlockedShot,1.0407499999999998,0.29156001129150394,0.1099309995770454,Antoine Griezmann,a,2270,OpenPlay,2022,RightFoot,19096,Mallorca,Atletico Madrid,1,0,2022-11-09 20:30:00,Álvaro Morata,Pass
+499593,78,MissedShots,0.8153500175476074,0.44548000564575196,0.0164349991828203,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19096,Mallorca,Atletico Madrid,1,0,2022-11-09 20:30:00,Axel Witsel,Pass
+501444,14,MissedShots,0.7957999649047851,0.1591,0.0078029599972069,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19102,Atletico Madrid,Elche,2,0,2022-12-29 20:30:00,,None
+501457,47,MissedShots,1.025799964904785,0.2789800056457519,0.3644259870052337,Antoine Griezmann,h,2270,OpenPlay,2022,RightFoot,19102,Atletico Madrid,Elche,2,0,2022-12-29 20:30:00,João Félix,Pass
+501458,50,MissedShots,0.92575,0.20794000282287592,0.0188988000154495,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19102,Atletico Madrid,Elche,2,0,2022-12-29 20:30:00,,None
+501459,55,BlockedShot,1.058,0.29303998870849607,0.0740308985114097,Antoine Griezmann,h,2270,OpenPlay,2022,RightFoot,19102,Atletico Madrid,Elche,2,0,2022-12-29 20:30:00,Marcos Llorente,Cross
+503028,25,BlockedShot,1.0027999649047852,0.2442,0.0574233010411262,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19113,Atletico Madrid,Barcelona,0,1,2023-01-08 20:00:00,Marcos Llorente,Pass
+503032,41,SavedShot,0.9867000350952148,0.3448399887084961,0.066558800637722,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19113,Atletico Madrid,Barcelona,0,1,2023-01-08 20:00:00,João Félix,BallTouch
+503039,53,MissedShots,1.0407499999999998,0.3167199943542481,0.0817058980464935,Antoine Griezmann,h,2270,OpenPlay,2022,RightFoot,19113,Atletico Madrid,Barcelona,0,1,2023-01-08 20:00:00,Nahuel Molina,Cross
+503044,75,BlockedShot,1.0027999649047852,0.4972799774169922,0.0440828017890453,Antoine Griezmann,h,2270,OpenPlay,2022,RightFoot,19113,Atletico Madrid,Barcelona,0,1,2023-01-08 20:00:00,Álvaro Morata,HeadPass
+503045,76,MissedShots,1.0591499824523924,0.5609200225830078,0.0324065014719963,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19113,Atletico Madrid,Barcelona,0,1,2023-01-08 20:00:00,,BallRecovery
+503048,93,BlockedShot,1.0993999824523926,0.32116001129150384,0.5475019812583923,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19113,Atletico Madrid,Barcelona,0,1,2023-01-08 20:00:00,Ángel Correa,Pass
+503049,95,BlockedShot,0.9073500175476074,0.3566800056457519,0.1168420016765594,Antoine Griezmann,h,2270,DirectFreekick,2022,LeftFoot,19113,Atletico Madrid,Barcelona,0,1,2023-01-08 20:00:00,,Standard
+504127,54,SavedShot,0.9188500175476073,0.4558399887084961,0.0531392991542816,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19125,Almeria,Atletico Madrid,1,1,2023-01-15 15:15:00,Marcos Llorente,Pass
+504130,63,SavedShot,1.0487999649047852,0.5128200225830077,0.0479989983141422,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19125,Almeria,Atletico Madrid,1,1,2023-01-15 15:15:00,Ángel Correa,Pass
+504774,20,MissedShots,0.9107999649047851,0.4987600112915039,0.0330048017203807,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19133,Atletico Madrid,Real Valladolid,3,0,2023-01-21 17:30:00,Reinildo,Pass
+504775,22,Goal,1.0913500175476074,0.34188000564575194,0.6361809968948364,Antoine Griezmann,h,2270,OpenPlay,2022,RightFoot,19133,Atletico Madrid,Real Valladolid,3,0,2023-01-21 17:30:00,Nahuel Molina,Pass
+504779,44,SavedShot,0.8268500175476073,0.394419994354248,0.0202092994004488,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19133,Atletico Madrid,Real Valladolid,3,0,2023-01-21 17:30:00,Reinildo,BallRecovery
+506235,5,BlockedShot,0.8532999649047851,0.32263998870849603,0.0644660964608192,Antoine Griezmann,a,2270,DirectFreekick,2022,LeftFoot,19146,Osasuna,Atletico Madrid,0,1,2023-01-29 15:15:00,,Standard
+506239,37,SavedShot,1.0959500350952145,0.2886,0.1102539971470832,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19146,Osasuna,Atletico Madrid,0,1,2023-01-29 15:15:00,,Rebound
+506238,37,BlockedShot,1.0648999824523924,0.25529999999999997,0.1061860024929046,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19146,Osasuna,Atletico Madrid,0,1,2023-01-29 15:15:00,Rodrigo de Paul,TakeOn
+506242,46,SavedShot,0.9372499999999999,0.4366,0.0432683005928993,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19146,Osasuna,Atletico Madrid,0,1,2023-01-29 15:15:00,Ángel Correa,Pass
+506243,52,MissedShots,1.0016499824523926,0.20350000000000001,0.0353207997977733,Antoine Griezmann,a,2270,OpenPlay,2022,RightFoot,19146,Osasuna,Atletico Madrid,0,1,2023-01-29 15:15:00,,None
+506253,79,SavedShot,1.01775,0.45213998870849614,0.3703100085258484,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19146,Osasuna,Atletico Madrid,0,1,2023-01-29 15:15:00,Rodrigo de Paul,Throughball
+507320,2,MissedShots,0.9786499824523925,0.49062002258300785,0.0539169982075691,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19153,Atletico Madrid,Getafe,1,1,2023-02-04 17:30:00,Thomas Lemar,Pass
+507321,22,MissedShots,0.8671000175476073,0.4958,0.0170872993767261,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19153,Atletico Madrid,Getafe,1,1,2023-02-04 17:30:00,,BallRecovery
+508983,27,MissedShots,1.0407499999999998,0.33078000564575194,0.0962530970573425,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19167,Celta Vigo,Atletico Madrid,0,1,2023-02-12 15:15:00,Nahuel Molina,Cross
+508990,50,MissedShots,0.91425,0.4558399887084961,0.0314421989023685,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19167,Celta Vigo,Atletico Madrid,0,1,2023-02-12 15:15:00,Yannick Carrasco,Pass
+508991,51,BlockedShot,0.8843500175476073,0.5032,0.0248149000108242,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19167,Celta Vigo,Atletico Madrid,0,1,2023-02-12 15:15:00,Koke,HeadPass
+510418,41,MissedShots,1.008549964904785,0.3167199943542481,0.0421889014542102,Antoine Griezmann,h,2270,OpenPlay,2022,Head,19179,Atletico Madrid,Athletic Club,1,0,2023-02-19 17:30:00,Nahuel Molina,Cross
+510430,66,BlockedShot,0.8901000175476074,0.4588,0.0173387005925178,Antoine Griezmann,h,2270,SetPiece,2022,LeftFoot,19179,Atletico Madrid,Athletic Club,1,0,2023-02-19 17:30:00,,Rebound
+510431,72,Goal,0.9912999649047851,0.49136001129150386,0.0515040010213851,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19179,Atletico Madrid,Athletic Club,1,0,2023-02-19 17:30:00,,None
+511001,60,MissedShots,0.9464500350952147,0.40848000564575193,0.0664485022425651,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19189,Real Madrid,Atletico Madrid,1,1,2023-02-25 17:30:00,Yannick Carrasco,Pass
+511003,71,BlockedShot,1.0959500350952145,0.5083799774169923,0.0552175007760524,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19189,Real Madrid,Atletico Madrid,1,1,2023-02-25 17:30:00,Koke,Pass
+511004,72,MissedShots,0.9671499824523925,0.305619994354248,0.0098732402548193,Antoine Griezmann,a,2270,OpenPlay,2022,Head,19189,Real Madrid,Atletico Madrid,1,1,2023-02-25 17:30:00,Koke,Aerial
+512459,8,BlockedShot,1.0476499824523924,0.4662,0.0986467003822326,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19192,Atletico Madrid,Sevilla,6,1,2023-03-04 20:00:00,Yannick Carrasco,Pass
+512468,52,Goal,0.8739999999999999,0.25233998870849605,0.0267487000674009,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19192,Atletico Madrid,Sevilla,6,1,2023-03-04 20:00:00,Koke,Pass
+514496,20,SavedShot,1.0131499824523924,0.3137600112915039,0.1067650020122528,Antoine Griezmann,a,2270,OpenPlay,2022,RightFoot,19207,Girona,Atletico Madrid,0,1,2023-03-13 20:00:00,Memphis Depay,Pass
+514508,77,MissedShots,1.01775,0.5461200225830078,0.0329760983586311,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19207,Girona,Atletico Madrid,0,1,2023-03-13 20:00:00,Mario Hermoso,Pass
+514510,79,BlockedShot,0.9016000175476073,0.5069,0.0242969002574682,Antoine Griezmann,a,2270,OpenPlay,2022,RightFoot,19207,Girona,Atletico Madrid,0,1,2023-03-13 20:00:00,Ángel Correa,Pass
+515301,22,Goal,1.0418999824523922,0.2997,0.3893089890480041,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19212,Atletico Madrid,Valencia,3,0,2023-03-18 20:00:00,Marcos Llorente,Pass
+515306,45,BlockedShot,1.0557000350952148,0.453619994354248,0.1333499997854232,Antoine Griezmann,h,2270,OpenPlay,2022,RightFoot,19212,Atletico Madrid,Valencia,3,0,2023-03-18 20:00:00,Marcos Llorente,TakeOn
+515313,69,MissedShots,1.0648999824523924,0.23828000564575194,0.0353128015995025,Antoine Griezmann,h,2270,FromCorner,2022,RightFoot,19212,Atletico Madrid,Valencia,3,0,2023-03-18 20:00:00,Thomas Lemar,Cross
+517295,1,SavedShot,1.0188999824523925,0.28638000564575194,0.0096600400283932,Antoine Griezmann,h,2270,SetPiece,2022,Head,19223,Atletico Madrid,Real Betis,1,0,2023-04-02 19:00:00,Nahuel Molina,Aerial
+517297,7,MissedShots,1.0568500175476074,0.3137600112915039,0.3032169938087463,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19223,Atletico Madrid,Real Betis,1,0,2023-04-02 19:00:00,Nahuel Molina,Cross
+517298,11,MissedShots,0.9878500175476074,0.2900800056457519,0.080962598323822,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19223,Atletico Madrid,Real Betis,1,0,2023-04-02 19:00:00,Nahuel Molina,Pass
+517299,28,SavedShot,0.9073500175476074,0.3248600112915039,0.0368520990014076,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19223,Atletico Madrid,Real Betis,1,0,2023-04-02 19:00:00,,None
+518927,6,BlockedShot,1.0166000175476073,0.228659997177124,0.0504496991634368,Antoine Griezmann,a,2270,OpenPlay,2022,RightFoot,19237,Rayo Vallecano,Atletico Madrid,1,2,2023-04-09 19:00:00,Nahuel Molina,Pass
+518954,88,SavedShot,1.0338500175476073,0.5490799774169922,0.0416973009705543,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19237,Rayo Vallecano,Atletico Madrid,1,2,2023-04-09 19:00:00,Saúl Ñíguez,Pass
+520275,3,MissedShots,0.8222499999999999,0.34853998870849606,0.0500429011881351,Antoine Griezmann,h,2270,DirectFreekick,2022,LeftFoot,19251,Atletico Madrid,Almeria,2,1,2023-04-16 16:30:00,,Standard
+520276,4,Goal,1.1201000175476075,0.36408000564575194,0.6327279806137085,Antoine Griezmann,h,2270,FromCorner,2022,Head,19251,Atletico Madrid,Almeria,2,1,2023-04-16 16:30:00,Ángel Correa,HeadPass
+520280,32,MissedShots,0.9924500350952148,0.2789800056457519,0.0865506008267402,Antoine Griezmann,h,2270,OpenPlay,2022,RightFoot,19251,Atletico Madrid,Almeria,2,1,2023-04-16 16:30:00,,BallRecovery
+520282,41,MissedShots,0.9096499824523925,0.2123800056457519,0.019641799852252,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19251,Atletico Madrid,Almeria,2,1,2023-04-16 16:30:00,Koke,Pass
+520283,42,Goal,1.0487999649047852,0.383319994354248,0.5131739974021912,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19251,Atletico Madrid,Almeria,2,1,2023-04-16 16:30:00,Yannick Carrasco,Pass
+520284,47,SavedShot,1.0281000175476074,0.4358600112915039,0.0512938983738422,Antoine Griezmann,h,2270,SetPiece,2022,Head,19251,Atletico Madrid,Almeria,2,1,2023-04-16 16:30:00,Yannick Carrasco,Cross
+520287,52,MissedShots,0.9464500350952147,0.3115399887084961,0.0752938017249107,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19251,Atletico Madrid,Almeria,2,1,2023-04-16 16:30:00,Marcos Llorente,Tackle
+520292,61,ShotOnPost,1.0154500350952147,0.2841600112915039,0.0988496989011764,Antoine Griezmann,h,2270,OpenPlay,2022,RightFoot,19251,Atletico Madrid,Almeria,2,1,2023-04-16 16:30:00,Marcos Llorente,Pass
+521570,0,ShotOnPost,0.9085,0.29896001129150385,0.0319585315883159,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19255,Barcelona,Atletico Madrid,1,0,2023-04-23 14:15:00,Ángel Correa,Pass
+521575,34,SavedShot,1.0039500350952149,0.40330000000000005,0.0899113118648529,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19255,Barcelona,Atletico Madrid,1,0,2023-04-23 14:15:00,Ángel Correa,BlockedPass
+521591,72,SavedShot,1.0533999824523923,0.3603800056457519,0.1197636798024177,Antoine Griezmann,a,2270,OpenPlay,2022,RightFoot,19255,Barcelona,Atletico Madrid,1,0,2023-04-23 14:15:00,Álvaro Morata,Pass
+521595,94,BlockedShot,1.01775,0.3071,0.0392395928502082,Antoine Griezmann,a,2270,OpenPlay,2022,Head,19255,Barcelona,Atletico Madrid,1,0,2023-04-23 14:15:00,Nahuel Molina,Cross
+522015,12,MissedShots,1.031549964904785,0.48026001129150386,0.0794065371155738,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19263,Atletico Madrid,Mallorca,3,1,2023-04-26 17:30:00,Yannick Carrasco,Pass
+522018,21,SavedShot,1.02925,0.5224399887084961,0.0917577147483825,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19263,Atletico Madrid,Mallorca,3,1,2023-04-26 17:30:00,Yannick Carrasco,Throughball
+522027,46,SavedShot,1.049950035095215,0.5061600112915039,0.0340439826250076,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19263,Atletico Madrid,Mallorca,3,1,2023-04-26 17:30:00,Mario Hermoso,Cross
+522036,62,MissedShots,0.8049999999999999,0.4995,0.0111132739111781,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19263,Atletico Madrid,Mallorca,3,1,2023-04-26 17:30:00,,None
+523635,44,SavedShot,0.9452999649047851,0.2715800056457519,0.0647110119462013,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19278,Real Valladolid,Atletico Madrid,2,5,2023-04-30 19:00:00,Rodrigo de Paul,Pass
+523638,56,MissedShots,1.0361499824523923,0.3589,0.1545808464288711,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19278,Real Valladolid,Atletico Madrid,2,5,2023-04-30 19:00:00,Nahuel Molina,Pass
+524150,1,Goal,1.012,0.4580600112915039,0.0936936140060424,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19283,Atletico Madrid,Cadiz,5,1,2023-05-03 20:00:00,Yannick Carrasco,Pass
+524154,26,Goal,0.997049964904785,0.2952600112915039,0.1041061207652092,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19283,Atletico Madrid,Cadiz,5,1,2023-05-03 20:00:00,Thomas Lemar,Pass
+524157,30,BlockedShot,1.0051000175476072,0.38406001129150386,0.1141759604215622,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19283,Atletico Madrid,Cadiz,5,1,2023-05-03 20:00:00,,Rebound
+526646,51,BlockedShot,1.014299964904785,0.5083799774169923,0.052109707146883,Antoine Griezmann,a,2270,OpenPlay,2022,RightFoot,19298,Elche,Atletico Madrid,1,0,2023-05-14 14:15:00,Koke,Pass
+526659,96,MissedShots,0.8211000175476074,0.442519994354248,0.0122949834913015,Antoine Griezmann,a,2270,SetPiece,2022,LeftFoot,19298,Elche,Atletico Madrid,1,0,2023-05-14 14:15:00,,End
+528063,15,ShotOnPost,0.9016000175476073,0.3692600112915039,0.0419332608580589,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19311,Atletico Madrid,Osasuna,3,0,2023-05-21 14:15:00,Rodrigo de Paul,BallTouch
+528075,65,MissedShots,1.0051000175476072,0.386280005645752,0.0968842133879661,Antoine Griezmann,h,2270,SetPiece,2022,LeftFoot,19311,Atletico Madrid,Osasuna,3,0,2023-05-21 14:15:00,Rodrigo de Paul,Pass
+528077,75,SavedShot,1.0844500350952146,0.5017200225830079,0.0816124752163887,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19311,Atletico Madrid,Osasuna,3,0,2023-05-21 14:15:00,Mario Hermoso,Pass
+528662,7,MissedShots,0.8947000350952148,0.36556001129150384,0.0379638746380806,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19317,Espanyol,Atletico Madrid,3,3,2023-05-24 20:00:00,,BallRecovery
+528677,43,Goal,1.06375,0.290819994354248,0.4093145728111267,Antoine Griezmann,a,2270,OpenPlay,2022,RightFoot,19317,Espanyol,Atletico Madrid,3,3,2023-05-24 20:00:00,,None
+528683,55,MissedShots,1.0878999824523923,0.4869200225830078,0.2850228250026703,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19317,Espanyol,Atletico Madrid,3,3,2023-05-24 20:00:00,Yannick Carrasco,Pass
+528693,73,SavedShot,1.0453500175476074,0.40330000000000005,0.54653000831604,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19317,Espanyol,Atletico Madrid,3,3,2023-05-24 20:00:00,,None
+528699,84,BlockedShot,1.014299964904785,0.518,0.0396251790225505,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19317,Espanyol,Atletico Madrid,3,3,2023-05-24 20:00:00,Saúl Ñíguez,Pass
+528700,90,MissedShots,0.9292000350952148,0.4787799774169922,0.0337617918848991,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19317,Espanyol,Atletico Madrid,3,3,2023-05-24 20:00:00,Sergio Reguilón,Pass
+530047,10,SavedShot,0.98325,0.535760011291504,0.0315903350710868,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19323,Atletico Madrid,Real Sociedad,2,1,2023-05-28 17:00:00,Yannick Carrasco,Pass
+530053,36,Goal,0.9774999999999999,0.195359997177124,0.031504962593317,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19323,Atletico Madrid,Real Sociedad,2,1,2023-05-28 17:00:00,Rodrigo de Paul,Chipped
+530057,48,SavedShot,1.1373500175476075,0.30413998870849607,0.1321399956941604,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19323,Atletico Madrid,Real Sociedad,2,1,2023-05-28 17:00:00,Giménez,TakeOn
+530058,52,MissedShots,0.9395499649047852,0.5046799774169922,0.0376802869141101,Antoine Griezmann,h,2270,OpenPlay,2022,LeftFoot,19323,Atletico Madrid,Real Sociedad,2,1,2023-05-28 17:00:00,Sergio Reguilón,Pass
+530903,37,BlockedShot,1.1051499824523925,0.296,0.1167471632361412,Antoine Griezmann,a,2270,OpenPlay,2022,RightFoot,19333,Villarreal,Atletico Madrid,2,2,2023-06-04 18:00:00,,Rebound
+530907,53,BlockedShot,1.0683500175476075,0.305619994354248,0.0850728452205658,Antoine Griezmann,a,2270,OpenPlay,2022,LeftFoot,19333,Villarreal,Atletico Madrid,2,2,2023-06-04 18:00:00,Pablo Barrios Rivas,Cross
+532792,47,BlockedShot,1.0154500350952147,0.44326001129150394,0.0136461779475212,Antoine Griezmann,h,2270,OpenPlay,2023,Head,22694,Atletico Madrid,Granada,3,1,2023-08-14 19:30:00,Mario Hermoso,Aerial
+534125,45,MissedShots,1.0775499649047853,0.296,0.0837336704134941,Antoine Griezmann,a,2270,OpenPlay,2023,LeftFoot,22702,Real Betis,Atletico Madrid,0,0,2023-08-20 19:30:00,César Azpilicueta,HeadPass
+534130,67,BlockedShot,0.8613500175476073,0.4336399887084961,0.0167108345776796,Antoine Griezmann,a,2270,OpenPlay,2023,LeftFoot,22702,Real Betis,Atletico Madrid,0,0,2023-08-20 19:30:00,,None
+535746,1,Goal,1.0557000350952148,0.4447399887084961,0.2977238595485687,Antoine Griezmann,a,2270,OpenPlay,2023,LeftFoot,22714,Rayo Vallecano,Atletico Madrid,0,7,2023-08-28 19:30:00,Rodrigo de Paul,Chipped
+535759,40,MissedShots,0.6278999824523925,0.3367,0.0091956267133355,Antoine Griezmann,a,2270,OpenPlay,2023,LeftFoot,22714,Rayo Vallecano,Atletico Madrid,0,7,2023-08-28 19:30:00,,None
+540088,17,Goal,1.0442000350952148,0.38480000000000003,0.3539309799671173,Antoine Griezmann,h,2270,OpenPlay,2023,Head,22736,Atletico Madrid,Real Madrid,3,1,2023-09-24 19:00:00,Saúl Ñíguez,Cross
+540101,58,BlockedShot,0.9131000175476074,0.2405,0.0271517056971788,Antoine Griezmann,h,2270,OpenPlay,2023,LeftFoot,22736,Atletico Madrid,Real Madrid,3,1,2023-09-24 19:00:00,Marcos Llorente,Pass
+540624,19,Goal,1.1132000350952147,0.442519994354248,0.0853436663746833,Antoine Griezmann,a,2270,OpenPlay,2023,LeftFoot,22748,Osasuna,Atletico Madrid,0,2,2023-09-28 19:30:00,,None
+542016,2,ShotOnPost,0.9982000350952148,0.333,0.3669160902500152,Antoine Griezmann,h,2270,OpenPlay,2023,LeftFoot,22756,Atletico Madrid,Cadiz,3,2,2023-10-01 19:00:00,Ángel Correa,Pass
+542018,3,SavedShot,1.0407499999999998,0.31746001129150386,0.3552117943763733,Antoine Griezmann,h,2270,OpenPlay,2023,LeftFoot,22756,Atletico Madrid,Cadiz,3,2,2023-10-01 19:00:00,César Azpilicueta,TakeOn
+542023,26,MissedShots,0.9107999649047851,0.4972799774169922,0.0799772068858146,Antoine Griezmann,h,2270,DirectFreekick,2023,LeftFoot,22756,Atletico Madrid,Cadiz,3,2,2023-10-01 19:00:00,,Standard
+542030,51,SavedShot,0.9062000350952149,0.2294,0.0225515291094779,Antoine Griezmann,h,2270,OpenPlay,2023,RightFoot,22756,Atletico Madrid,Cadiz,3,2,2023-10-01 19:00:00,Ángel Correa,BallTouch
+542031,55,BlockedShot,0.9889999999999999,0.242719994354248,0.0491147860884666,Antoine Griezmann,h,2270,OpenPlay,2023,LeftFoot,22756,Atletico Madrid,Cadiz,3,2,2023-10-01 19:00:00,,None
+542037,77,MissedShots,0.9867000350952148,0.39811999435424805,0.1052804812788963,Antoine Griezmann,h,2270,OpenPlay,2023,LeftFoot,22756,Atletico Madrid,Cadiz,3,2,2023-10-01 19:00:00,Samuel Lino,Pass
+543261,23,MissedShots,0.9855499649047851,0.40921999435424805,0.3050426840782165,Antoine Griezmann,h,2270,OpenPlay,2023,LeftFoot,22765,Atletico Madrid,Real Sociedad,2,1,2023-10-08 14:15:00,César Azpilicueta,Chipped
+543263,39,MissedShots,1.100549964904785,0.4366,0.4514331817626953,Antoine Griezmann,h,2270,OpenPlay,2023,LeftFoot,22765,Atletico Madrid,Real Sociedad,2,1,2023-10-08 14:15:00,Rodrigo de Paul,Throughball
+543280,85,BlockedShot,1.012,0.34188000564575194,0.1167604103684425,Antoine Griezmann,h,2270,OpenPlay,2023,LeftFoot,22765,Atletico Madrid,Real Sociedad,2,1,2023-10-08 14:15:00,Koke,Pass
+543281,88,Goal,1.01775,0.37,0.7432776093482971,Antoine Griezmann,h,2270,Penalty,2023,LeftFoot,22765,Atletico Madrid,Real Sociedad,2,1,2023-10-08 14:15:00,,Standard
